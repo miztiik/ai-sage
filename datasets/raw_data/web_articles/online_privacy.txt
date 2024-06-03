@@ -1,0 +1,59 @@
+On the internet, everyone wants to know who you are. Websites are constantly asking for your email address or trying to place tracking cookies on your devices. A murky slurry of advertisers and tech firms track which websites you visit, predicting what your interests are and what you may want to buy. Search engines, browsers, and apps can log each search or scroll you make.
+
+At this stage of the internet, being totally anonymous across your entire online life is incredibly hard to achieve. Phones, SIM cards, browsers, Wi-Fi networks, and more use identifiers that can be linked to your activity. But there are steps you can take to obscure your identity for everyday browsing.
+
+If you’re looking to be truly anonymous or to protect your identity for a specific purpose—such as whistleblowing or activism—you should consider your threat model and individual security situation. But many of the changes you can make, which are listed below, are straightforward switches that can stop you from being tracked as much and apply to most people.
+
+Block the Trackers
+You’re constantly being tracked online. Often the main culprit is the advertising industry and the tech companies heavily reliant on advertising to make money (think: Google and Meta). Invisible trackers and cookies embedded in websites and apps can follow you around the web.
+
+Start with your web browser. Ideally, you want to block invisible trackers and ads that have tracking tech embedded. Advertisers can also track you using fingerprinting, a sneaky profiling method where the settings of your browser and device (such as language, screen size, and many other details) are used to single you out. If you want to see how your current browser tracks you, the Electronic Frontier Foundation’s Cover Your Tracks tool can run a real-time test on your system. Using Chrome, the world’s most popular browser, neither tracking ads nor invisible trackers are blocked for me, and my browser has a unique fingerprint.
+
+For the most anonymity, the Tor Browser is best. Downloadable in the same way as any other browser, it encrypts your traffic by sending it through a number of servers and also deploys anti-censorship, anti-fingerprinting, and other privacy measures. Because of its advanced protections, however, Tor can sometimes be slower than other browsers. Several privacy-focused browsers such as FireFox, the Mullvad Browser, and Brave offer enhanced protections against trackers and offer further customizable privacy settings.
+
+If you don’t want to switch browsers, there are some browser extensions that can block trackers within Chrome. Both the Ghostery extension and EFF’s Privacy Badger will block trackers, with the latter not blocking ads unless they are specifically tracking you. On Walmart’s homepage, while using Chrome, for example, Privacy Badger blocked four trackers that were in use, while Ghostery identified five.
+
+Beyond the web, trackers embedded in your mobile applications can gather data on your activity. On Android, you should turn off personalized ads through Google’s My Ad Center, simply toggling the setting to off. Also, delete your device’s advertising ID by going to Settings, Privacy, Ads and clicking on the Delete advertising ID option. There are also Android apps that will block cross-app trackers, such as DuckDuckGo’s browser app or the University of Oxford–developed TrackerControl. If you use iOS, go to Settings, Privacy & Security, Tracking, and toggle off Allow Apps to Request to Track to stop apps from tracking you across apps and websites.
+
+For some people, a VPN may be useful for stopping their internet service provider from viewing their web traffic. VPNs can, however, see your online activity—in some cases keeping logs of it—and many are problematic. Our is Mullvad’s VPN, which is open source and accepts payments via cash mailed to its offices in Sweden.
+
+Pick the Most Private Option
+Every app, website, and service you use is likely to collect some data about you, but some collect more than others. Picking services that purposefully don’t collect information about you or that use end-to-end encryption, which stops companies from seeing the contents of your communications or data transfers, can help limit your exposure to the web. Generally, you want to avoid Big Tech.
+
+For messaging, Signal collects very little information about who uses it, and it’s encrypted by default, meaning it cannot see the contents of the messages you send. For searching, DuckDuckGo, Brave Search, Kagi, Startpage, and Mojeek are our picks of the most privacy friendly search engines. For email, Proton and Tuta (formerly Tutanota) provide free end-to-end encryption options. OnionShare uses the Tor network to allow you to anonymously share files. Proton Drive offers encrypted file storage online, and Apple’s advanced data protection settings allow iCloud storage to be end-to-end encrypted once it is enabled.
+
+If you're using a work laptop or phone, it's also worth keeping in mind that your employer can likely see many, if not all, of the things you do on those devices. If you're searching for a new job or running personal tasks, you likely want to do them on personal devices.
+
+Check What You Post
+As much as anything, being more anonymous online is linked to your mentality. Simply put, the less you share about yourself online, the less identifiable you will be. That means being careful about what you post on social media—not sharing information that could identify you, your location, or others around you.
+
+For instance, if you want to create a new social media account that’s not tied to your identity, keep any names or personal information out of the account name. You should also not sign up using your primary phone number, email address, physical address, or any similar information that could be linked back to you. This doesn’t apply just to a new account you’re creating; it should be the wider way you think about all of your online behavior.
+
+There are also steps that you can take to try to delete yourself from the internet: opt out from data brokers who buy and sell information about you; update old or outdated websites and remove information from Google searches; delete old social media posts and accounts you no longer use. These steps can take a lot of work, especially if you’re delving into years-old social media accounts, but doing them a little at a time can help.
+
+Burner Everything
+As well as being cautious about what you post online, there’s also the option to use one-time accounts or masked identities for certain parts of your life. If you require a messaging account that’s not tied to your current phone number—over time, phone numbers have become common ways to identify people—it may be worth considering a separate phone and SIM that you can use for that specific purpose.
+
+It has also become easier in recent years to hide your email address from websites and services that you are signing up to. Apple’s Hide My Email tool keeps your main email address private and generates a random email address when you sign up to a new service. If you pay for an iCloud+ subscription, the tool can generate email addresses on demand in the Settings app. Similarly, the Firefox Relay tool, which has a limited amount of free use, can generate email addresses for you that forward to your main inbox.
+
+Take It Up a Level
+Being totally anonymous online is incredibly hard to do—and the level of anonymity you require will depend on why you’re trying not to be identified. Beyond what we’ve outlined here (and how paranoid you are), there are more advanced steps that you can take.
+
+It may be worth considering an operating system for your phone or computer that is focused on privacy and anonymity. The Tails operating system, which you need install and run from a USB stick each time you use it, includes Tor, OnionShare, and multiple other tools you can use on your computer. For Android devices, GrapheneOS is an open source operating system that strips away the Google-linked Android elements and focuses on privacy.
+
+There are also a number of extreme security measures you can take if you want to further harden your digital life, without going all the way into what is needed for being anonymous online. You can remove the microphones on your devices, sweep for bugs, or potentially use faraday cages or air gap your devices so that they're not connecting to the outside world. For the majority of people, though, this level of protection may be more trouble than it’s worth.
+
+You Might Also Like …
+📩 Get the long view on tech with Steven Levy’s Plaintext newsletter
+
+The spy who dumped the CIA, went to therapy, and now makes incredible TV
+
+Blood, guns, and broken scooters: The chaotic rise and fall of Bird
+
+A demographic time bomb is about to hit the beef industry
+
+Inside America’s school internet censorship machine
+
+Dispatch from the future: The must-have gadgets and gear of 2053
+
+🌲 Our Gear team has branched out with a new guide to the best sleeping pads and fresh picks for the best coolers and binoculars

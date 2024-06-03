@@ -1,0 +1,61 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "deploymentParams": {
+      "value": {
+        "backup_regions": [
+          "switzerlandnorth",
+          "northeurope",
+          "eastus"
+        ],
+        "version": "2024-06-02",
+        "enable_diagnostics": true,
+        "location": "eastus",
+        "loc_short_code": "us",
+        "global_uniqueness": "004",
+        "enterprise_name": "Miztiik_Enterprises",
+        "enterprise_name_suffix": "sage",
+        "sub_deploymnet_prefix": "Miztiik_Verse"
+      }
+    },
+    "identity_params": {
+      "value": {
+        "name_prefix": "uami"
+      }
+    },
+    "key_vault_params": {
+      "value": {
+        "name_prefix": "secrets"
+      }
+    },
+    "sa_params": {
+      "value": {
+        "name_prefix": "warehouse",
+        "misc_sa_name_prefix": "kuppai",
+        "blob_name_prefix": "store-events"
+      }
+    },
+    "laws_params": {
+      "value": {
+        "name_prefix": "lumber-yard",
+        "store_events_custom_tbl_name": "storeEvents",
+        "automationEventsCustomTableName": "miztiikAutomationEvents",
+        "managedRunCmdCustomTableName": "miztiikRunCmdEvents"
+      }
+    },
+    "brand_tags": {
+      "value": {
+        "owner": "mystique",
+        "automation_by": "mystique_automation",
+        "github_profile": "https://github.com/miztiik",
+        "about_me": "https://github.com/miztiik/about-me",
+        "udemy_profile": "https://www.udemy.com/user/n-kumar",
+        "skill_profile": "https://www.skillshare.com/r/profile/Kumar/407603333",
+        "buy_me_a_coffee": "https://ko-fi.com/miztiik",
+        "project": "oai-03-sage",
+        "github_repo_url": "https://github.com/miztiik/oai-03-sage"
+      }
+    }
+  }
+}

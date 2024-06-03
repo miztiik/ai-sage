@@ -1,0 +1,1214 @@
+Source: 
+https://www.fool.com/earnings/call-transcripts/2024/02/01/amazoncom-amzn-q4-2023-earnings-call-transcript/
+https://www.fool.com/earnings/call-transcripts/2023/10/26/amazoncom-amzn-q3-2023-earnings-call-transcript/
+https://www.fool.com/earnings/call-transcripts/2023/08/03/amazoncom-amzn-q2-2023-earnings-call-transcript/
+https://www.fool.com/earnings/call-transcripts/2023/04/28/amazoncom-amzn-q1-2023-earnings-call-transcript/
+==================================================
+AMZN earnings call for the period ending December 31, 2023.
+Logo of jester cap with thought bubble.
+IMAGE SOURCE: THE MOTLEY FOOL.
+
+Amazon.com (AMZN -0.68%)
+Q4 2023 Earnings Call
+Feb 01, 2024, 5:30 p.m. ET
+
+Contents:
+Prepared Remarks
+Questions and Answers
+Call Participants
+Prepared Remarks:
+
+Operator
+
+Thank you for standing by. Good day, everyone, and welcome to the Amazon.com fourth quarter 2023 financial results teleconference. At this time, all participants are in a listen-only mode. After the presentation, we will conduct a question-and-answer session.
+
+Today's call is being recorded. For opening remarks, I will be turning the call over to the vice president of investor relations, Mr. Dave Fildes. Thank you.
+
+Sir, please go ahead.
+
+Dave Fildes -- Director, Investor Relations
+
+Hello, and welcome to our Q4 2023 financial results conference call. Joining us today to answer your questions is Andy Jassy, our CEO; and Brian Olsavsky, our CFO. As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results as well as metrics and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2022.
+
+Our comments and responses to your questions reflect management's views as of today, February 1, 2024, only, and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings. During this call, we may discuss certain non-GAAP financial measures.
+
+10 stocks we like better than Amazon
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Amazon wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of February 5, 2024
+
+In our press release, slides accompanying this webcast and our filings with the SEC, each of which is posted on our IR website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures. Our guidance incorporates the order trends that we've seen to date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions, and customer demand and spending, including the impact of recessionary fears, inflation, interest rates, regional labor market constraints, world events, the rate of growth of the Internet, online commerce, cloud services, and new and emerging technologies and the various factors detailed in our filings with the SEC. Our guidance assumes, among other things, that we don't conclude any additional business acquisitions, restructurings, or legal settlements.
+
+It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance. And now, I'll turn the call over to Andy.
+
+Andy Jassy -- Chief Executive Officer
+
+Thanks, Dave. Today, we're reporting $170 billion in revenue, up 13% year over year, excluding the impact from foreign exchange rates, $13.2 billion in operating income, up 383% year over year or $10.5 billion, and $35.5 billion in trailing 12-month free cash flow adjusted for equipment finance leases, up $48.3 billion year over year. While we've made meaningful progress in our financial measures, what we're most pleased about is the continued customer experience improvements across our businesses. These results represent a lot of invention, collaboration, discipline, execution, adjusting, and reimagining from teams across Amazon.
+
+Looking back at Q4, I'll start with our stores business, where customers responded to our continued focus on selection, price, and convenience. We continue to have the broadest retail selection with hundreds of millions of products available and added tens of millions of new items last year alone, including fashion selection from Coach, Victoria's Secrets Fashion, Pit Viper and Beyonce's Renaissance tour merch to cosmetics from Lancome, Urban Decay Cosmetics, and KNOW Beauty by Vanessa Hudgens, to consumer technology and services from Boost, Infinite, and Woop, to homewares for Martha Stewart. Being sharp on price is always important but particularly in an uncertain economy, where customers are careful about how much they're spending. We kicked off the holiday season with Prime Big Deal Days, an exclusive event for Prime members to provide an early start on holiday shopping.
+
+This was followed by our extended Black Friday and Cyber Monday holiday shopping event, which was open to all customers and ended up being our largest event ever. These events also helped attract new customers and Prime members. Throughout the quarter, customers saved nearly $10 billion across millions of deals and coupons, almost 70% more than last year. In addition to offering great deals, we continue to improve delivery speeds.
+
+In 2023, Amazon delivered to Prime members at the fastest speeds ever with more than 7 billion items arriving same or next day, including more than 4 billion in the U.S. and more than 2 billion in Europe. In the U.S., this result is the combination of two things. One is the benefit of regionalization, where we rearchitected the network to store items closer to customers.
+
+The other is the expansion of same-day facilities where in the U.S. in the fourth quarter, we increased the number of items delivered the same day overnight by more than 65% year over year. As we're able to get customers items this fast, it increases the number of occasions that customers choose Amazon to fulfill their shopping needs. And we can see that in all sorts of areas, including how fast our everyday essentials business is growing.
+
+Our regionalization efforts have also brought transportation distances down, which has helped lower our cost to serve. In 2023, for the first time since 2018, we reduced our cost to serve on a per-unit basis globally. In the U.S. alone cost to serve was down by more than $0.45 per unit compared to the prior year.
+
+Lowering cost to serve allows us not only to invest in speed improvements but also afford adding more selection at lower average selling prices or ASPs and profitably. We have a saying that it's not hard to lower prices, it's hard to be able to afford lowering prices. The same is true with adding selection. It's not hard to add lower ASP selection, it's hard to be able to afford offering lower ASP selection and still like the economics.
+
+Like improving speed, adding selection puts us in the consideration set for more purchases. As we look toward 2024 and beyond, we're not done lowering our cost to serve. We've challenged every closely held belief in our fulfillment network and reevaluated every part of it and found several areas where we believe we can lower costs while also delivering faster for customers. Our inbound fulfillment architecture and resulting inventory placement are areas of focus in 2024, and we have optimism there's more upside for us.
+
+Alongside our stores business, our advertising growth remained strong, up 26% year over year, which is primarily driven by our sponsored ads. We've recently added sponsored TV to this offering in the U.S., a self-service solution for brands to create streaming TV campaigns with no minimum spend, putting this advertising within reach of any business. While still early days, streaming TV advertising continues to grow quickly. Brands are using our capabilities to reach engaged viewers on Twitch, Free V, Fire TV, and Prime Video shows and movies, which just launched in the U.S.
+
+as well as Thursday Night Football. Shifting to AWS, revenue in the quarter grew 13% year over year in Q4 versus 12% year over year in Q3, and we're now approaching an annualized revenue run rate of $100 billion. We watched the incremental revenue added each quarter. And in Q4, AWS added more than $1.1 billion of incremental quarter-over-quarter revenue, which on an FX-neutral basis is more than any other cloud provider as far as we can tell.
+
+While cost optimization continued to attenuate, larger new deals also accelerated, evidenced by recently inked agreements with Salesforce, BMW, NVIDIA, LG, Hyundai, Merck, MUFG, Axiata, Cathay, BYD, Accor, Amgen, and SAIC. Our customer pipeline remains strong as existing customers are renewing at larger commitments over longer periods and migrations are growing. 2023 also was a very significant year of delivery and customer trial for generative AI or Gen AI in AWS. You may remember that we've explained our vision of three distinct layers in the Gen AI stack, each of which is gigantic and each of which we're deeply investing.
+
+At the bottom layer, where customers who are building their own models run training and inference on compute where the chip is the key component in that compute, we offer the most expansive collection of compute instances with NVIDIA chips. We also have customers who like us to push the price performance envelope on AI chips, just as we have with Graviton for generalized CPU chips, which are 40% more price performance than other X86 alternatives. And as a result, we've built custom AI training chips named Trainium and inference chips named Inferentia. At Reinvent, we announced Trainium 2, which offers four times faster training performance and three times memory capacity versus the first generation of Trainium, enabling advantageous price performance versus alternatives.
+
+We already have several customers using our AI chips, including Anthropic, Airbnb, Hugging Face, Qualtrics, Rico, and Snap. In the middle layer, where companies seek to leverage an existing large language model, customize it with their own data, and leverage AWS' security and other features, all as a managed service, we've launched Bedrock, which is off to a very strong start with many thousands of customers using the service after just a few months. The team continues to rapidly iterate on Bedrock, recently delivering capabilities, including guardrails to safeguard what questions applications will answer, knowledge basis to expand model's knowledge base with retrieval augmented generation of RAG and real-time queries, agents to complete multistep tasks, and fine-tuning to keep teaching and refining models, all of which will help customers' applications be higher-quality and have better customer experiences. We also added new models from Anthropic, Cohere, Meta with Llama 2, Stability AI, and our own Amazon Titan family of LLMs.
+
+What customers have learned at this early stage of Gen AI is that there's meaningful iteration required in building a production Gen AI application with the requisite enterprise quality at the cost and latency needed. Customers don't want only one model. They want different models for different types of applications and different-sized models for different applications. Customers want a service that makes this experimenting and iterating simple.
+
+And this is what Bedrock does, which is why so many customers are excited about it. At the top layer of the stack is the application layer, one of the very best early Gen AI applications is a coded companion. At Reinvent, we launched Amazon Q, which is an expert on AWS, writes code, debugs code, tests code, does translations like moving from an old version of Java to a new one, and can also query customers various data repositories like Internet, Wickes or from over 40 different popular connectors to data in Salesforce, Amazon S3, ServiceNow, Slack, Elastin, or Zendesk, among others. And answer questions, summarize this data, carry on a coherent conversation, and take action.
+
+It was designed with security and privacy in mind from the start, making it easier for organizations to use generative AI safely. Q is the most capable work assistant and another service that customers are very excited about. By the way, don't underestimate the point about Bedrock and Q inheriting the same security and access control as customers get with AWS. Security is a big deal, an important differentiator between cloud providers.
+
+The data in these models is some of the company's most sensitive and critical assets. With AWS' advantaged security capabilities and track record relative to other providers, we continue to see momentum around customers wanting to do their long-term Gen AI work with AWS. We're building dozens of Gen AI apps across Amazon's businesses, several of which have launched, and others of which are in development. This morning, we launched Rufus, an expert shopping assistant trained on our product and customer data that represents a significant customer experience improvement for Discovery.
+
+Rufus lets customers ask shopping journey questions like what is the best golf ball to use for better spin control or which are the best cold weather rain jackets and get thoughtful explanations for what matters and recommendations on products. You can carry on a conversation with Rufus on other related or unrelated questions and retains context coherently. You can sift through our rich product pages by asking Rufus questions on any product features and will return answers quickly. We're at the start of what Rufus will do with further personalization and expansion coming, but we're excited about how it will make discovery even easier on Amazon.
+
+Gen AI is and will continue to be an area of pervasive focus and investment across Amazon, primarily because there are a few initiatives, if any, that give us the chance to reinvent so many of our customer experiences and processes, and we believe it will ultimately drive tens of billions of dollars of revenue for Amazon over the next several years. In addition to our stores and AWS businesses, we continue to make progress on newer business investments that have the potential to be important to customers and Amazon long term. Touching on two of them, in October, we had a major milestone in our journey to commercialize Project HyPer, which is our low earth orbit satellite initiative that aims to provide broadband connectivity to the 400 million to 500 million households who don't have it today. We launched two end-to-end prototype satellites into space and successfully validated all key systems and subsystems, made a two-way video call, streamed a Prime Video movie in Ultra HD 4K, and made an Amazon purchase over our end-to-end communication network.
+
+It's rare to be able to exercise all these elements in an initial launch like this. We're on track to launch our first production satellite in the first half of 2024 and started beta testing in the second half of the year. We've still got a long way to go but are encouraged by our progress. During the quarter, we also completed our second season of Thursday Night Football, which was a rousing success by all accounts.
+
+The customer experience continued to improve as our talent, production, streaming quality, analytics, unique AI features like Prime Vision, and defensive alerts, all took big leaps forward on top of the very good start last year. We launched a new NFL tradition with the inaugural Black Friday football game and our continuous innovation resonated with viewers as the number of people watching increased 24% year over year and with advertisers as we made dramatic year-over-year gains in ad sales. We have increasing conviction that Prime Video can be a large and profitable business on its own, and we'll continue to invest in compelling exclusive content for Prime members like Thursday Night Football, Lord of the Rings, Reacher, Mr. & Mr.
+
+Smith, Citadel, and more. And with the ads in Prime Video, we'll be able to continue investing meaningfully in content over time. I'll close by reiterating that 2023 was a really good year. I'm grateful to all of our teams who delivered on behalf of customers.
+
+Yet I think every one of us at Amazon believes this is just the start of what's possible. We have a long way to go in every one of our businesses before we exhaust how we can make customers' lives better and easier, and there is considerable upside in each of the businesses in which we're investing. With that, I'll turn it over to Brian.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Thanks, Andy. Overall, we saw strong performance in the fourth quarter. Worldwide revenue was $170 billion, representing an increase of 13% year over year, excluding the impact of foreign exchange, and approximately $3 billion above the top end of our guidance range. Saw our highest quarterly worldwide operating income ever, which was $13.2 billion for the quarter, an increase of $10.5 billion year over year and $2.2 billion above the high end of our guidance range.
+
+For the full year 2023, we had a meaningful improvement across our financial results. Revenue was $574.8 billion, an increase of 12% year over year, excluding the impact of foreign exchange. Operating income tripled year over year to $36.9 billion. Trailing 12-month free cash flow adjusted for equipment finance leases was $35.5 billion, up $48.3 billion versus last year.
+
+These financial outputs are a result of a lot of improvements in our key input metrics such as stores' cost to serve, which decreased year over year for the first time since 2018, and our ability to deliver to customers at our fastest speeds ever. I want to thank our customers, our partners, and our teammates around the world for a very strong 2023 performance. Focusing on the fourth quarter, North America revenue was $105.5 billion, an increase of 13% year over year and an acceleration of 200 basis points compared to Q3. International revenue was $40.2 billion, an increase of 13% year over year, excluding the impact of foreign exchange, also an acceleration of 200 basis points compared to Q3.
+
+During the quarter, we remained focused on the inputs that matter most to our customers, price, selection, and convenience. Our shopping events throughout the quarter included Prime Big Deal Days in October and our extended Black Friday and Cyber Monday shopping event helped to attract new Prime members and deliver billions in savings for customers. We made meaningful progress on delivery speeds in the United States and globally, which helped strong sales throughout the quarter, including notable strength in the last-minute gifting where our ability to provide fast shipping helped our Prime members ensure that they got their gifts before the holidays. These improvements in delivery speed have led to increased purchase frequency by our Prime members across all of our major geographies.
+
+It also strengthened demand for our everyday essentials. Categories like beauty and health and personal care, where speed is even more important to customers. Third-party sellers were a big part of our success over the holidays with worldwide third-party seller services revenue growing at 19% year over year, excluding the impact of foreign exchange. And worldwide third-party seller unit mix was 61%, its highest level ever.
+
+We also saw strong performance in worldwide advertising, which grew 26% year over year, excluding the impact of foreign exchange. The strength in advertising was primarily driven by sponsored products as our teams worked hard to increase the relevancy of the ads we show customers by leveraging machine learning. Advertising only works if the ads are helpful to customers and there's a lot of value in tailoring sponsored products, so they are relevant to what a customer is actually searching for. We're also continually focused on improving our measurement capabilities, which allow brands to see the payback of their advertising spend.
+
+Shifting to profitability. North America segment operating income was $6.5 billion, an increase of $6.7 billion year over year, resulting in an operating margin of 6.1%, up 120 basis points quarter over quarter. Since North America operating margins were at their recent low levels in Q1 of 2022, we have now seen seven consecutive quarters of improvement resulting in a cumulative improvement of 800 basis points over these past seven quarters. In addition to the strong top-line growth, which helped to drive improved leverage throughout our businesses, we continue to make progress on reducing our cost to serve.
+
+The fourth quarter is our busiest time of year, supported by an increasingly large and integrated operations network. Overall, our teams executed extremely well, yielding strong efficiency gains with minimal disruptions. We were pleased with the performance of our regionalized network during the holiday period, where we saw benefits from improved inventory placement helping drive faster speeds and also lowering costs. We also continue to see benefits from lower transportation rates, which include linehaul, ocean, and rail, and from a more stable labor market, resulting in improved staffing levels.
+
+In our International segment, we had an operating loss of $419 million, an improvement of $1.8 billion year over year. This improvement was primarily driven by lowering our cost to serve through increased units per box, lower transportation rates, and leverage across our fixed costs as we continue to focus on customer inputs and improve efficiencies within our operations. The International segment represents more than 20 countries of varying degrees of growth and our largest established countries like the U.K., Germany, and Japan, relatively strong revenue growth contributed to the year-over-year improvement in profitability. Additionally, we saw good progress in our emerging countries as they continued to expand their customer offerings while seeking to invest wisely.
+
+Moving to AWS. Revenues were $24.2 billion, an increase of 13% year over year. On a quarter-over-quarter basis, we added more than $1.1 billion of revenue in AWS as customers are continuing to shift their focus toward driving innovation and bringing new workloads to the cloud. Similar to what we shared last quarter, we continue to see the diminishing impact of cost optimizations.
+
+And as these optimizations slow down, we're seeing more companies turning their attention to newer initiatives and reaccelerating existing migrations. Customers are also excited about our approach to generative AI. Still relatively early days, but the revenues are accelerating rapidly across all three layers and our approach to democratizing AI is resonating well with our customers. We have seen significant interest from our customers wanting to run generative AI applications and build large language models and foundation models, all with the privacy, reliability, and security they have grown accustomed to with AWS.
+
+AWS' operating income was $7.2 billion, an increase of $2 billion year over year. Our operating margin for the quarter was 29.6%, up more than 500 basis points year over year and effectively flat on a quarter-over-quarter basis. This margin improvement reflects our headcount reductions from earlier in the year and a slowdown in the pace of hiring. Shifting to free cash flow.
+
+On a trailing 12-month basis, free cash flow adjusted for finance leases was $35.5 billion, an improvement of $48.3 billion year over year. The largest driver of the improvement in free cash flow is our increased operating income, which we are seeing across all three of our segments. We're also seeing improvements in working capital, notably in inventory efficiency driven by our regionalization efforts. Next, let's turn to capital investments.
+
+We define our capital investments as a combination of capex plus equipment finance leases. In 2023, full-year capex was $48.4 billion, which was down $10.2 billion year over year, primarily driven by lower spend on fulfillment and transportation. As we look forward to 2024, we anticipate capex to increase year over year, primarily driven by increased infrastructure capex, support growth of our AWS business, including additional investments in generative AI and large language models. One thing I'd like to highlight in our first-quarter guidance is that we recently completed a useful life study for our servers, and we are increasing the useful life from five years to six years beginning in January 2024.
+
+We will have this anticipated benefit to our operating income of approximately $900 million in Q1, which is included in our operating income guidance. As we turn the calendar to 2024, we are excited to continue upon the great work the teams have been able to deliver in 2023. We remain focused on streamlining and prioritizing projects in an effective way that reduces costs and also allows us to continue innovating and inventing for customers. With that, let's move on to questions.
+
+Questions & Answers:
+
+Operator
+
+At this time, we will now open the call up for questions. We ask each caller to please limit yourself to one question. [Operator instructions] At this time, please hold while we poll for questions. Thank you.
+
+Our first question comes from the line of Eric Sheridan with Goldman Sachs. Please proceed with your question.
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Thank you so much for taking the questions. I'm just going to do a two-parter on AWS. If we take a step back, can you talk a little bit about the contribution from backlog conversion, AI workloads, and some elements that allowed you to reaccelerate revenue at AWS in Q4 and how we should think about those components from an exit velocity point into 2024? And then against your broader comments on capex, any color on how we should be thinking about AI-driven capex within the AWS initiatives against the broader capex commentary? Thank you.
+
+Dave Fildes -- Director, Investor Relations
+
+Yeah, that's right. This is Dave. Just to give you that -- the balance was $155.7 billion as of 12/31. So, that's up more than $45 billion year over year and $20 billion quarter over quarter.
+
+Brian Olsavsky -- Chief Financial Officer
+
+And then, you know, if you look back at the revenue growth, it accelerated to 13.2% in Q4 as we just mentioned. That was an acceleration. We expect accelerating trends to continue into 2024. We're excited about the migrate -- continuous resumption, I guess, of migrations that companies may have put on hold during 2023 in some cases and interest in our generative AI and products, like Bedrock and as Andy was describing that.
+
+On the capex side, let me talk in total for the company. We had $48 billion in 2023 was down $10 billion year over year. We talked about during the year quite a bit, a lot of the mix of investment in 2023 was tied to infrastructure, mostly supporting AWS but also supporting our core Amazon businesses was about 60% of our spend. So, it reached a very high percentage.
+
+We anticipate those trends continuing into 2024. capex will go up in 2024. I'm not giving a number today, but we do -- we're still working through plans for the year, but we do expect capex to rise as we add capacity in AWS for region expansions, but primarily the work we're doing with generative AI projects. In the fulfillment center and logistics area, I would say it's more incremental capacity at this point based on additional demand, although we are seeing some additional investments for same-day delivery sites and automation, robotics.
+
+But the trend for most of the large percentage of the spend will be in infrastructure is going to continue into 2024.
+
+Andy Jassy -- Chief Executive Officer
+
+To add a few things to what Brian said, I think just as it relates to the first part of the question, just the way to think about backlog conversion is just these are deals that we've signed that are long-term deals typically with customers. And then there's some amount of time it takes where we work with those customers to migrate those workloads. And so, some of the trends that we have seen over the last quarter. First of all, I think that the lion's share of cost optimization has happened.
+
+It's not that there won't be any more or that we don't see anymore, but it's just attenuated very significantly. And at the same time, what we've seen is that migrations and this speaks to some of the backlog, migrations that were proceeding, but maybe not at the pace that we saw before, have started to pick up again. We've also seen that a number of the deals that typically signed more quickly, but were signing more slowly in more uncertain environments. A lot of those got done in the last quarter, and you heard in my opening remarks some of the examples, but that was some of several, and we're continuing to see that trend.
+
+And then on the Gen AI side, it's -- if you look at the Gen AI revenue we have, in absolute numbers, it's a pretty big number, but in the scheme of a $100 billion annual revenue run rate business, it's still relatively small, much smaller than what it will be in the future, where we really believe we're going to drive tens of billions of dollars of revenue over the next several years. But it's encouraging, how fast it's growing, and our offering is really resonating with customers.
+
+Operator
+
+And the next question comes from the line of Brian Nowak with Morgan Stanley. Please proceed with your question.
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Great. Thanks for taking my questions. I have two. Andy, the first one is sort of on the cost-to-serve comments coming down for the first time since 2018.
+
+As you sort of look into '24 and '25, can you just sort of walk us through some of the key operational blocking and tackling this to happen to continue to drive down that cost of serve back to 2018 levels or however you're thinking about your North Star from that perspective? And then the second one is on sort of philosophical about capital returns. It looks like the cash balance could start building pretty nicely here. How do you think about the idea of buybacks, share repurchases, or some type of capital return programs to sort of help shareholders out?
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah. Thank you, Brian. I appreciate it. I'll take the first, and I'll let Brian take the second.
+
+On the cost to serve coming down, as I mentioned in my opening remarks, I don't think that we feel like where we're going to ultimately be. I think we feel like we have meaningful upside there. And I think one thing that it's easy to make as large a change as we made in regionalization in the U.S. and saying, check, we got that done.
+
+But the reality is, we still have several improvements and a bunch of ways that we can hone the regionalization improvements that we made in 2023 and in 2024. And so, when the team speaks about the areas where they believe they have opportunities, there's still opportunities just in regionalization as we continue to hone that, but I also think, in many ways, it was very useful for us to go through what was a pretty significant change we went through during the pandemic, where we doubled the size of our fulfillment center network in 18 months and built out a last mile transportation network, the size of UPS in 18 months. It was disruptive to get that optimized. But one of the things that was very useful was, it really caused us to relook at everything we were doing with fulfillment network.
+
+And we looked at it really a beginner's eye and we have found so many areas that we believe that we can evolve that I think will both help our cost to serve and even more importantly, deliver faster delivery speeds for customers. And I mentioned one area which, in particular, which you'll see us focus on over the next year or two is just, we think there are real opportunities in our inbound network and our inbound processes. And then where we locate inventory in association with that, which will accomplish both of those tasks. But for us, I don't believe that we believe that 2018 is the North Star in cost to serve.
+
+I think we believe we can keep evolving it and being better than that.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Yeah, I'd just add a couple of other items there. We've gotten a lot better at fixed cost controls, as we scale. And I think you're seeing that as part of our ability to lower cost per serve not only in operations, it's actually throughout the company. And we're seeing a reduction in some of the inflationary factors that hit us in -- especially hard in 2021 and 2022, things like transportation services, fuel, and others.
+
+So, not totally out of the woods there, but coming down, and we still see some more upside. On your share repurchase question, first of all, just really excited to actually have that question. No one's asked me that in three years and appreciate it. But we have come through a tumultuous period where, as Andy just said, we doubled the size of our logistics footprint and invested heavily in -- we saw that negative free cash flow, at least on all two calculation for the period 2021 to 2022.
+
+So, we're glad to see the improvement in the bounce back in free cash flow. A lot of -- and we do debate and discuss capital structure policies annually or more often. And I have nothing to announce today, but again, we primarily think we have a lot of strong investments in front of us. We're good -- we're glad to have the liquidity -- better liquidity at the end of 2023, and we're going to try to continue to build that.
+
+Operator
+
+And our next question comes from the line of Doug Anmuth with JPMorgan. Please proceed with your question.
+
+Doug Anmuth -- JPMorgan Chase and Company -- Analyst
+
+Thanks for taking the questions. Brian, you've seen very good improvement in International profitability over the last several quarters. Can you just talk about some of the levers here that you're thinking about just as you look to move into positive operating income and then how International could potentially approach North America levels over time? And then just a follow-up there. Are you seeing any shipping disruptions currently related to the Red Sea and does that factor into your outlook at all for 1Q? Thanks.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Yeah. Let me start with the second one first. So, we're mindful of the geopolitical issues around the world, especially as you say in the supply chain and how that might impact shipments both to the U.S. and to Europe.
+
+We're just working very hard to make that not back up on customers, and we'll continue to work that. It's not a material impact into the -- estimated in our guidance in Q1. But again, as I said, we're vigilant on that, and we'll work to take steps where we need to, to make sure that customer experience is not impacted. On the International segment, operating income, yes, we're very pleased with the results, especially over the last few quarters.
+
+We improved operating income by $1.8 billion year over year. And I would attribute it to the steady progress that Andy was saying about the U.S. is, again, cost of serve down, advertising is stronger, a lot of attention to cost, a lot of attention to investments, and we are going to invest and other fixed cost control. So, a lot of that is what we're seeing in the established countries of Europe and Japan.
+
+I would divide the segment a bit into a couple of buckets. First, there's that International segment, excuse me, European established country segment. And that's -- it behaves a lot like you would see in North America. If you look at the emerging countries -- and again, we've launched 10 countries in the last seven years.
+
+They're all on their own trajectory of journey to profitability and significance with customers, and we're pleased with that. I think they're all growing nicely and, again, leveraging their cost structure, investing wisely in Prime benefits but all on a curve to breakeven and then be a contributor to income and free cash flow. The other thing I'd point out is that we have advanced loaded, I would say, price benefits in our International markets. We think it's a very good source of customer acquisition and customer retention.
+
+The investment in those areas can fluctuate quarter to quarter. We had a bit of a higher spend in -- excuse me, in digital content in Q4 as we had a number of marketing and content, especially around live sports, English Premier League, and Champions League in Germany and Italy, for example. But we like those benefits in those investments, different proven vehicle for customer acquisition, as I said, and it gets people shopping at our sites, and engaging with benefits is always positive for the relationship with Amazon.
+
+Operator
+
+And the next question comes from the line of Mark Mahaney with Evercore ISI. Please proceed with your question.
+
+Mark Mahaney -- Evercore ISI -- Analyst
+
+OK. Thanks. Two questions, please. I think you mentioned, Brian, that the North American margins have improved for seven quarters in a row or something like that, a significant number.
+
+I would assume that most of the factors like rising capacity utilization given your capex commentary about retail, the regional center efficiencies, and then overall, moderation in shipping and logistics costs, labor costs, I mean, all these factors probably mean that we'll continue to get an improvement in North American margins, but if you would comment on that. And then secondly, on the Primetime Video -- Amazon Prime video, I know we just launched. But could you provide any color or context on expectations around that? You've got a massive number of Prime users who are coming in with a reasonable CPM with low ad load, but it seems like there should be a substantial opportunity for you. So, if you want to try to size that for us or how you think about the upside, that would be really appreciated.
+
+Thank you.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Sure, Mark. Thank you. I think Andy laid it out pretty well a few minutes ago on the cost structure, the regionalization, the -- growing into the assets that we added during the pandemic, great efficiency, and work with productivity across really all of our operations network fixed -- attention to fixed cost and lowering costs where we can, maintaining costs where we can, the increase in advertising, success in advertising revenue growth that's outpaced our traffic growth rates. So, all of those trends we expect to continue, and we're going to work hard to make sure they continue.
+
+And as we said, we have one guidepost is maybe pre-pandemic profitability, but we are working to -- we're not putting a limit on our improvement. We're going to continue to look for ways to lower the cost to serve. And I might add, at the same time, increase the customer experience because we did that -- we had that cost improvement at the same time when we at first got back to our shipping speeds from pre-pandemic and then exceeded them. So, we're happy with that, and we'll continue to do both to improve the customer experience and also to lower our costs and leverage our cost structure.
+
+Yes, your second question on ads, I can't scale it right now. I mean, what I would say for ads in videos is that advertisers are excited to access our Prime customer base. We are looking for ways to increase our advertising in our streaming properties, including Fire TV, but also -- and Prime Video, but also things like Free V and Twitch. And it's an important part of the total business model, and we expect it will allow us to have a healthy business to continue to invest in content and to continue to grow that.
+
+And we feel good about it, and we -- the way we anticipate the ads progressing, we will not have heavy ad loads relative to see other network TV and other things. And like all of our advertising, we're trying to be useful for customers.
+
+Operator
+
+And our next question comes from the line of Scott Devitt with Wedbush Securities. Please proceed with your question.
+
+Scott Devitt -- Wedbush Securities -- Analyst
+
+Thanks, everyone. I have one on grocery and one on healthcare. First, on grocery, I was wondering if you could talk a bit about the progress that you're making in unifying the offering between Dotcom, Fresh, and Whole Foods. And as it relates to reverse logistics and using the grocery facilities, how that's lowering the cost of logistics, and whether there is a significant opportunity there in terms of driving traffic and revenue in the grocery business? Then secondly, on healthcare, in such a poor -- notoriously poor customer experience industry, you've made significant efforts now within acquisition and offering primary care.
+
+Just be curious if you could talk a little bit more about the longer-term vision in healthcare. Thank you.
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah. On grocery, we're pleased with the progress we're making there. When we think about our grocery business right now and kind of, I'll call it, three big macro segments. The first is nonperishables where these are things like consumables and canned goods and pet food and health and beauty products and pharmaceutical.
+
+And we -- it's a big business and it's continuing to grow at a very healthy clip, and we're really pleased with that business. And it's really the way the most mass merchandise -- mass merchandisers got into the grocery business a few decades ago. So, that continues to grow at a very healthy clip. We have a physical presence along with online, but Whole Foods market, which is really the pioneer and the leader in organic grocery and that's continuing to grow at a very good clip.
+
+We also made a number of changes in the business last year on the profitability side, where we really like the profitability trajectory we see there. And so, again, you'll see that keep growing and expanding and feel very good about that as well. If you want to serve as many grocery needs as we do, you have to have a mass physical presence. And that's what we've been trying to do with Fresh over several years.
+
+We have tested -- we've been testing a V2 of our Fresh format in a few locations near Chicago, in a few locations in Southern California. It's very early. It's just a few months in, but the results thus far are very promising and on almost every dimension. And so, we need to see it for a little bit longer time, but the results appear like we have something that's resonating.
+
+And if we continue to see that then the issue becomes how fast and what's the best way to expand. We have also been spending increasing amounts of time and efforts here trying to make it easier for customers to be able to shop between the nonperishables and then our selection of Whole Foods as well as Fresh, I think you can expect to see that over time, both in the user experience on the app and on the website as well as how we're able to better leverage between the different business segments and their logistics capabilities, being able to get better leverage there, better economics and then allowing people to order in one conservative place to be able to pick up in multiple -- pick up for multiple types of grocery products in one place. You're seeing us already do more of that, and I think you can expect that in the future. In the healthcare space, I -- if you think about what we do on the retail side, adding a pharmacy capability is a pretty natural extension.
+
+It's something that customers had asked us for, for many years, and it's got more complexity to it than the rest of our retail business. So, we have to think carefully about whether we wanted to pursue it, but customers so badly wanted it, and the experience we thought could be better and we could be a meaningful part of changing that that we pursued it. And I really like the momentum that we're seeing in our Amazon Pharmacy business. It's growing really quickly.
+
+But even more important with how fast it's growing, if you've used it and you've paid attention to the customer experience over the last 12 to 15 months, it's just substantially improved from where it already was pretty good. People really love the experience. And I think that when -- the healthcare experience, particularly in the U.S. is a pretty frustrating one and not a very good one.
+
+And I think that when we tell our grandkids that the way we used to have to go get primary care was to make an appointment three weeks in advance and then drive 20 minutes to the doctor, park, wait in the reception for 15 minutes, get put into an exam room for 15 minutes. Doctor comes in, talks to you for five to 10 minutes, and then you got to drive 20 minutes to the pharmacy. People are just not -- our grandkids will not believe that was the experience and it's not going to be, and you already see that changing. And it's part of what attracted us in such a significant way to a medical.
+
+It's just their application, their app is so easy to use. You have all your healthcare data in one spot. You can do chats with medical practitioners. You can do video calls.
+
+If you need to see someone, there's physical locations and lots of metropolis cities where you can get in the same day. If you need to see a specialist, they're plugged into specialists in all the cities in which we operate, where you can get in a day or two later. It's a very different experience. Now, if you actually need medication, you can get that sent to you in a day or two, either through Amazon pharmacy or other pharmacies that we work with.
+
+And that experience is so much better than what we've been accustomed to seeing. And so, I think it's -- again, it's still early days. We're excited. We launched for Prime members the ability to get one medical subscription for $9 a month or $99 a year, which is 50% off the typical price and that saw a very good take-up.
+
+So, it's still early days, but we think we have an opportunity to be a meaningful part of changing that experience. And if we are helpful in changing what that primary care experience is and what it looks like to get pharmaceutical items, there's a lot of other things that we might be able to help customers with over time, whether it's wellness or whether it's diet. There's a bunch of areas that I think we can help over time.
+
+Operator
+
+And our final question will come from the line of Colin Sebastian with Baird. Please proceed with your question.
+
+Colin Sebastian -- Robert W. Baird and Company -- Analyst
+
+Thanks very much. I just wanted to follow up on AWS for a moment. You outlined the generative AI stack, which I think is -- which is very clear. So, I'm just curious maybe how you're going to market within the application layer given sort of the competitive dynamics of that.
+
+And then maybe expand, if you could, Andy, a little bit on the strategy for Gene AI on the consumer-facing side of the business. I know you launched Rufus today. Is that an area that you think could materially improve conversion rates and the overall consumer engagement on retail apps or what's your vision there? Thank you.
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah. So, Colin, I would say a few things on -- first on generative AI. It's -- when we talk to customers, particularly at enterprises as they're thinking about generative AI, many are still thinking through at which layers of those three layers of the stack, I laid out that they want to operate in. And we predict that most companies will operate in at least two of them.
+
+But I also think even though it may not be the case early on, I think many of the technically capable companies will operate at all three. They will build their own models. They will leverage existing models from us, and then they're going to build the apps. And I know one of the other interesting things that we see early on right now in generative AI is that -- it's a very iterative process and real work to go from posing a question into a chatbot and getting an answer to turning that into a production quality application at the quality you need for your customer experience and your reputation and then also getting that application to work at the latency and cost characteristics that you need.
+
+And so, what we see is that customers want choice. They don't want just one model to rule the world. They want different models for different applications. And they want to experiment with all different-sized models because they yield different cost structures and different latency characteristics.
+
+And so, Bedrock is really resonating with customers. They just -- they know they want to change all these variables and try and experiment and they have something that manages all those different transitions and changes, so they can figure out what works best for them, especially in the first couple of years where they're learning how to build successful generative applications is incredibly important for them. So, it's part of why we see Bedrock resonating so much. In the same way, what's attractive to enterprises when they think about coding companions like Q, is just if you can get 30%, 40% better productivity for your developers, which in many cases, for companies is their most scarce resource, it's a game changer.
+
+And they won't roll out every bit of code that comes from a coding companion. But if it can assist them to get 80% plus the way there quickly, that's a big deal. And one of the things that's unique about Q is it's not just a coding companion, yes, it's an expert on AWS. It will help you -- it helps you write the code, but it also helps you debug the code, and it helps you test the code, helps you do transformations, and it helps you figure out how a multistep implement features.
+
+There's a lot of -- helps you troubleshoot. If there's something in your application that's you write, you can find it and help you fix it. And so -- and then it also lets you look at all your data repositories, whether it's Internet or Wickes or the 40-plus data connectors like Salesforce, Atlassian, and Zendesk and Slack. And let you have an intelligent conversation to get answers and take action.
+
+So, it's a pretty differentiated capability there. And when enterprises are looking at how they might best make their developers more productive, they're looking at what's the array of capabilities in these different coding companion options they have. And so, we're spending a lot of time -- our enterprises are quite excited about it. It created a meaningful Reinvent.
+
+And what you see typically is that these companies experiment with different options they have, and they make decisions for their employee base, and we're seeing very good momentum there. The question about how we're thinking about Gen AI in our consumer businesses. We're building dozens of generative AI applications across the company. It's every business that we have has multiple generative AI applications that we are building.
+
+And they're all in different stages, many of which have launched and others of which are in development. So, if you just look at our -- some of our consumer businesses, on the retail side, we built a generative AI application that allowed customers to look at summary of customer reviews so that they didn't have to read hundreds and sometimes thousands of reviews to get a sense for what people like or dislike about a product. We launched a generative AI application that allows customers to quickly be able to predict what kind of fit they'd have for different apparel items. We built a generative AI application in our fulfillment centers that forecasts how much inventory we need in each particular fulfillment center.
+
+And so, the start of the rollout of Rufus today is really just another step, but we think one that's pretty meaningful in being a generative AI-powered shopping assistant and it's trained on our very expansive product catalog as well as our community Q&A and customer reviews and the broader web. But it lets customers discover items in a very different way than they have been able to on e-commerce websites. So, if you want buying advice, like what should I look for in a pair of headphones, or if you are doing purpose buying, like what should I buy for cold weather golf or comparisons, what's difference in lip-gloss or lip oil or you want recommendations of the best Valentine's Day gifts or you're on a detailed page with bridge product info, where you don't want to go through the whole page, you want to ask is this pickleball rack that's good for beginners. All those questions you can pull in and get really good answers.
+
+And then it's seamlessly integrated in the Amazon experience that customers are used to and love to be able to take action. So, I think that that's just the next iteration. I think it's going to meaningfully change what discovery looks like for our shopping experience and for our customers. And I could kind of step through every one of those consumer businesses.
+
+Our advertising business is building capabilities where people can submit a picture and ad copy is written and the other way around. And you kind of think about Alexa, where we're building a very large -- expansive large language model is going to make Alexa even more productive and helpful for customer. Every one of our consumer businesses has a significant number of generative AI applications that they either have built and delivered or they're in the process of building. And I don't see that changing for many years.
+
+We have a lot of ideas.
+
+Dave Fildes -- Director, Investor Relations
+
+Thanks for joining us today on the call and for your questions. A replay will be available on our Investor Relations website for at least three months. We appreciate your interest in Amazon, and we look forward to talking with you again next quarter.
+
+Operator
+
+[Operator signoff]
+
+Duration: 0 minutes
+
+Call participants:
+Dave Fildes -- Director, Investor Relations
+
+Andy Jassy -- Chief Executive Officer
+
+Brian Olsavsky -- Chief Financial Officer
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Doug Anmuth -- JPMorgan Chase and Company -- Analyst
+
+Mark Mahaney -- Evercore ISI -- Analyst
+
+Scott Devitt -- Wedbush Securities -- Analyst
+
+Colin Sebastian -- Robert W. Baird and Company -- Analyst
+==============================
+AMZN earnings call for the period ending September 30, 2023.
+Logo of jester cap with thought bubble.
+IMAGE SOURCE: THE MOTLEY FOOL.
+
+Amazon.com (AMZN -0.68%)
+Q3 2023 Earnings Call
+Oct 26, 2023, 5:30 p.m. ET
+
+Contents:
+Prepared Remarks
+Questions and Answers
+Call Participants
+Prepared Remarks:
+
+Operator
+
+Good day, everyone, and welcome to the Amazon.com third quarter 2023 financial results teleconference. At this time all participants are in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Today's call is being recorded.
+
+And for opening remarks, I will be turning the call over to the vice president of investor relations, Dave Fildes. Thank you, sir. Please go ahead.
+
+Dave Fildes -- Director, Investor Relations
+
+Hello, and welcome to our Q3 2023 financial results conference call. Joining us today to answer your questions is Andy Jassy, our CEO; and Brian Olsavsky, our CFO. As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results, as well as metrics and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2022.
+
+Our comments and responses to your questions reflect management's views as of today, October 26th, 2023, only and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings. During this call, we may discuss certain non-GAAP financial measures in our press release, slides accompanying this webcast and our filings with the SEC, each of which is posted on our IR website.
+
+10 stocks we like better than Amazon
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Amazon wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of February 5, 2024
+
+You will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures. Our guidance incorporates the order trends that we've seen to date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions and customer demand and spending, including the impact of recessionary fears, inflation, interest rates, regional labor market constraints, world events, the rate of growth of the internet, online commerce, cloud services and new and emerging technologies and the various factors detailed in our filings with the SEC. Our guidance assumes, among other things, that we don't conclude any additional business acquisitions, restructurings or legal settlements.
+
+It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance. And now I'll turn the call over to Andy.
+
+Andy Jassy -- Chief Executive Officer
+
+Thanks, Dave. Today, we're reporting $143.1 billion in revenue, up 11% year over year; $11.2 billion in operating income, up 343% year over year or $8.7 billion; and $20.2 billion in trailing 12-month free cash flow adjusted for equipment finance leases, which is up $41.7 billion versus the comparable period last year. We continue to be encouraged by the progress we're making in lowering our cost to serve, improving our customer experiences and investing for future growth. I'll start with our stores business.
+
+Our move earlier this year from a single national fulfillment network in the U.S. to eight distinct regions represented one of the most significant changes to our fulfillment network in our history. This change has gone more smoothly and made more impact than we optimistically expected. And you can see the benefits in many forms.
+
+Regional fulfillment clusters with higher local in-stock levels and optimized connections between fulfillment centers and delivery stations mean shorter distances and fewer touches to get items to customers. Shorter travel distances and fewer touches mean lower cost to serve. But perhaps most importantly, shorter distances and fewer touches mean that customers are getting their shipments faster. We remain on pace to deliver the fastest delivery speeds for Prime customers in our 29-year history.
+
+And as I talked about last quarter, we know how important speed of delivery is to customer satisfaction and buying behavior. A good example is the significant growth we're seeing in consumables and everyday essentials. When customers are getting items as quickly and conveniently as they are now from Amazon, they're going to consider us more frequently for more of their shopping needs. As we've shared the last few quarters, we've reevaluated every part of our fulfillment network over the last year.
+
+The first substantial rearchitecture centered on the regionalization change. We obviously like the results, but don't think we fully realize all the benefits yet and we continue to make steady improvements in fine-tuning the placement algorithms to enable even more in-region fulfillment and to further increase consolidation into fewer shipments. We've also identified several substantial changes to our inbound processes that we believe could have a significant impact on our cost to serve and speed of delivery. We have a long way before being out of ideas to improve cost and speed.
+
+The team is really humming on this, and I'm proud of the way they're inventing and executing together. Moving to AWS and our investments in generative AI. AWS revenue grew 12% year over year in Q3, with $919 million of incremental quarter-over-quarter revenue and now has the annualized revenue run rate of $92 billion. AWS' year-over-year growth rate continued to stabilize in Q3.
+
+And while we still saw elevated cost optimization relative to a year ago, it's continued to attenuate as more companies transition to deploying net new workloads. Companies have moved more slowly in an uncertain economy in 2023 to complete deals. But we're seeing the pace and volume of closed deals pick up, and we're encouraged by the strong last couple of months of new deals signed. For perspective, we signed several new deals in September with an effective date in October that won't show up in any GAAP reported number for Q3, but the collection of which is higher than our total reported deal volume for all of Q3.
+
+Deal signings are always lumpy, and the revenue happens over several years, but we like the recent deal momentum we're seeing. Top of mind for most companies continues to be generative AI. As I mentioned last quarter, we think about generative AI as having three macro layers, each of which is very large and each of which we're investing. A few updates there.
+
+At the lowest layer is the compute to train large language models, or LLMs, and produce inferences or predictions. The key to this compute is the chip inside it. As we've shared, we've been working on custom silicon for training and inference with our Trainium and Inferentia chips, respectively. Recently, we announced that leading LLM maker, Anthropic, chose AWS as its primary cloud provider and will use Trainium and Inferentia to build, train, and deploy its future LLMs.
+
+As part of this partnership, AWS and Anthropic will collaborate on the future development of Trainium and Inferentia technology. We believe this collaboration will be helpful in continuing to accelerate the price performance advantages that Trainium and Inferentia deliver for customers. In the middle layer, which we think of as large language models as a service, we recently introduced general availability for Amazon Bedrock, which offers customers access to leading LLMs from third-party providers like Anthropic, Stability AI, Cohere, and AI21, as well as from Amazon's own LLMs called Titan, where customers can take those models, customize them using their own data, but without leaking that data back into the generalized LLM, have access to the same security, access control and features that they run the rest of their applications within AWS all through a managed service. In the last couple of months, we've announced the imminent addition of Meta's Llama 2 model to Bedrock, the first time it's being made available through a fully managed service.
+
+Also, through our expanded collaboration with Anthropic, customers will gain access to future Anthropic models through Bedrock with exclusive early access to unique features, model customization and the ability to fine-tune the models. And Bedrock has added several new compelling features, including the ability to create agents, which can be programmed to accomplish tasks like answering questions or automating workflows. In these early days of generative AI, companies are still learning which models they want to use, which models they use for what purposes and which model sizes they should use to get the latency and cost characteristics they desire. In our opinion, the only certainty is that there will continue to be a high rate of change.
+
+Bedrock helps customers with this fluidity, allowing them to rapidly experiment with move between model types and sizes and enabling them to pick the right tool for the right job. The customer reaction to Bedrock has been very positive and the general availability is buoyed that further. Bedrock is the easiest way to build and scale enterprise-ready generative AI applications and a real game changer for developers and companies trying to get value out of this new technology. And the top layer, which are the applications that run the LLMs, our generative AI coding companion, Amazon CodeWhisperer has gotten a lot of early traction and got a lot more powerful recently with the launch of its new customization capability.
+
+The No. 1 enterprise request for coding companions has been wanting these companions to be familiar with customers' proprietary code bases. It's not just having code companions trained in open-source code, companies want the equivalent of a longtime senior engineer who knows their code base well. That's what CodeWhisperer just launched, another first of its kind out there in its current form and customers are excited about it.
+
+A few last comments on AWS' generative AI work. As you can tell, we're focused on doing what we've always done for customers, taking technology that can transform customer experiences and businesses, but they can be complex and expensive and democratizing it for customers of all sizes and technical abilities. It's also worth remembering that customers want to bring the models to their data, not the other way around. And much of that data resides in AWS is the clear market segment leader in cloud infrastructure.
+
+We're innovating and delivering at a rapid rate and our approach is resonating with customers. The number of companies building generative AI apps in AWS is substantial and growing very quickly, including adidas, Booking.com, Bridgewater, Clariant, GoDaddy, LexisNexis, Merck, Royal Philips and United Airlines, to name a few. We are also seeing success with generative AI start-ups like Perplexity.ai who chose to go all in with AWS, including running future models in Trainium and Inferentia. And the AWS team has a lot of new capabilities to share with its customers at its upcoming AWS re:Invent conference.
+
+Beyond AWS, all of our significant businesses are working on generative AI applications to transform their customer experiences. There are too many for me to name on this call, but a few examples include, in our stores business, we're using generative AI to help people better discover products they want and more easily access the information needed to make decisions. We use generative AI models to forecast inventory we need in our various locations and to derive optimal last mile transportation routes for drivers to employ. We're also making it much easier for our third-party sellers to create new product pages by entering much less information and letting the models do the rest.
+
+In advertising, we just launched a generative AI image generation tool, where all brands need to do is upload a product photo and description to quickly create unique lifestyle images that will help customers discover products they love. And in Alexa, we built a much more expansive LLM and previewed the early version of this. Apart from being a more intelligent version of herself, Alexa's new conversational AI capabilities include the ability to make multiple requests at once, as well as more natural and conversational requests without having to use specific phrases. We continue to be convicted that the vision of being the world's best personal assistant is a compelling and viable one and that Alexa has a good chance to be one of the long-term winners in this arena.
+
+Every one of our businesses is building generative AI applications to change what's possible for customers, and we have a lot more to come. We're also encouraged by the progress we're making in our newer initiatives. Just to name a few, we're pleased with what we're seeing in Prime Video. Prime Video continues to be an integral part of the Prime value proposition where it's often one of the top 2 drivers of customers signing up for Prime.
+
+We also have increasing conviction that Prime Video can be a large and profitable business in its own right as we continue to invest in compelling exclusive content for prime members, but also offer the best selection of premium streaming video content anywhere with our marketplace offering, including channels for customers who can subscribe to channels like Max, Paramount+, BET Plus and MGM+, as well as our broad transaction video-on-demand selection. As we continue to invest in compelling content, beginning in early 2024, Prime Video shows and movies will include limited advertisements. We aim to have meaningfully fewer ads than linear TV and other streaming TV providers. If customers prefer and add free option, we plan to offer that for an additional $2.99 per month for U.S.
+
+members. There is still a lot of work to be done in innovation ahead, but we're excited about our future on Prime Video. We're seeing progress on a number of our investments that expand our ability to serve more consumers and sellers in their e-commerce missions. Our emerging international stores continue to improve their customer experiences and profitability and are on a strong trajectory.
+
+Both consumers and sellers are excited about Buy with Prime, which enables third-party sellers with direct-to-consumer websites to offer Amazon Prime members the same fast payments and delivery options they receive on Amazon.com. We recently announced the capability for sellers to integrate Buy with Prime with their Shopify account, making it easier for Shopify merchants to manage their businesses with inventory pricing and promotions automatically synced in one place. And we're seeing very positive early response from sellers to Supply Chain by Amazon, a fully automated set of supply chain services where Amazon can pick up inventory from manufacturing facilities around the world, ship it across borders, handle customs clearance and ground transportation, store inventory in bulk, manage replenishment across Amazon and other sales channels and deliver directly to customers, all without sellers having to worry about managing their supply chain. Our healthcare team is continuing to make healthcare easier for people to access.
+
+The Amazon Pharmacy customer experience has significantly evolved this year, and customers are responding that both in their purchasing behavior and qualitative feedback. We built RxPass for customers to get unlimited supply of eligible medications for $5 per month, meaningfully reduce the cost for customers to get insulin and diabetes products, and partnered with Blue Shield of California to offer a first-of-its-kind model to provide more affordable pharmacy care to its 4.8 million members, providing fast and free delivery of prescription medications and 24/7 access to pharmacists. We remain convinced that we can be part of the solution of making healthcare a better customer experience. And our low Earth orbit satellite initiative Project Kuiper, which aims to bring fast, affordable broadband to underserved communities around the world, took a meaningful step forward in the last few weeks with the successful launch of two prototype satellites.
+
+We will use this multi-month mission to test our satellites and network from space and collect data ahead of the planned start of satellite production later this year. I'd like to close by thanking our teams around the world who are gearing up for two of our most significant events across the company. First, our annual AWS re:Invent conference that begins on November 27th. The team is excited to share a lot of new capabilities with customers and provide an array of opportunities for builders to learn and connect with one another.
+
+And on the stores side, we've already kicked off what will be our 29th holiday shopping season. Prime Big Deal Days held earlier this month was our most successful October holiday kickoff event ever, with Prime members saving more than $1 billion across hundreds and millions of items sold. Just as we do all year long, we aim to make our customers' lives easier and better every day, and there's no time where it's more important to us that we deliver on this mission than during the busy holiday shopping season. With that, I'll turn it over to Brian.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Thanks, Andy. Overall, we saw a strong performance in the third quarter. Worldwide revenue was $143.1 billion, representing an increase of 11% year over year, excluding the impact of foreign exchange, and approximately $100 million above the top end of our guidance range. We saw our highest quarterly worldwide operating income ever, which was $11.2 billion for the quarter, an increase of $8.7 billion year over year from $2.7 billion above the high end of our guidance range.
+
+North America revenue was $87.9 billion, an increase of 11% year over year. And international revenue was $32.1 billion, an increase of 11% year over year, excluding foreign exchange. During the quarter, we held our biggest Prime Day event ever with Prime members purchasing more than 375 million items worldwide and saving more than $2.5 billion on millions of deals across the Amazon store. Outside of Prime Day, we continue to see strong demand across everyday essentials, including categories like beauty and health and personal care.
+
+From a customer behavior standpoint, we still see customers remaining cautious about price, trading down where they can and seeking out deals, coupled with lower spending on discretionary items. Building on the momentum from last quarter, we set another record for delivery speed. For the year-to-date period through the third quarter, we have delivered at the fastest speeds ever in the United States. These improvements in delivery speeds have been a key driver of growth and are resulting in increased purchase frequency by our Prime members.
+
+Third-party sellers grew at 18% year over year, excluding foreign exchange, primarily driven by selection expansion and growing adoption of our optional services for sellers, including Fulfillment by Amazon and paid account management and more. During the quarter, we hosted Amazon Accelerate, our annual seller conference, where we launched a number of new innovations and product developments for our sellers, including Supply Chain by Amazon. We also continue to see durable growth in advertising, which grew 25% year over year, excluding foreign exchange, primarily driven by sponsored products as we lean into machine learning to improve the relevancy of the ads we show our customers and enhance our measurement capabilities on behalf of advertisers. We have seen strong improvement in our profitability.
+
+North America operating income was $4.3 billion, an increase of $4.7 billion year over year, resulting in an operating margin of 4.9%, up 100 basis points quarter over quarter. Since North America operating margins bottomed out in Q1 of 2022, we have now seen six consecutive quarters of improvement, resulting in a cumulative improvement of over 700 basis points over these past six quarters. The third quarter marked the second full quarter of regionalization within the U.S., and we're pleased with the early results. Regionalization has allowed us to simplify the network by reducing the number of line-haul lanes, increasing volume within existing line-haul lanes and adding more direct fulfillment center to delivery station connections.
+
+We have also been focused on optimizing inventory placement in a new regionalized network, which when coupled with the simplification mentioned earlier, is helping contribute to an overall reduction in cost to serve. Additionally, in the quarter, we saw benefits from lower inflation, primarily within line haul, ocean and rail shipping rates, which were partially offset by higher fuel prices. While we are encouraged by the improvements in operating profit, we still see a lot of opportunity in front of us. In international, we were closer to breakeven during the quarter with an operating loss of $95 million.
+
+This was an improvement of $2.4 billion year over year. This improvement was primarily driven by lowering our cost to serve through higher productivity, decreased inflationary pressures and improvements in leverage across our established and emerging international countries as we continue to focus on customer inputs and improve efficiencies within our operations. Moving to AWS. Revenues were $23.1 billion, an increase of 12% year over year.
+
+On a quarter-over-quarter basis, we added more than $900 million of revenue in AWS as customers are continuing to shift their focus toward driving innovation and bringing new workloads to the cloud. Similar to what we shared last quarter, while optimization still remain a headwind, we've seen the rate of new cost optimization slowdown in AWS, and we are encouraged by the strength of our customer pipeline. Customers are excited about our approach to generative AI, with several new announcements made during the quarter, including a strategic collaboration with Anthropic, opening Amazon Bedrock up to general availability, adding Meta's Llama 2 model to Bedrock in the near future and new customization capabilities of CodeWhisperer. AWS remains a clear cloud infrastructure leader with a significant leadership position in the number of customers, the size of our partner ecosystem, our breadth of functionality, and the strongest operational performance in the industry.
+
+When we look at the fundamentals of the business, we believe we are in good position to drive future growth as the rates of cost optimization slow down. AWS operating income was $7 billion, an increase of $1.6 billion year over year. Our operating margin for the quarter was 30.3%. This is an improvement of approximately 600 basis points quarter over quarter, primarily driven by increased leverage on our headcount costs.
+
+Shifting to free cash flow. On a trailing 12-month basis, free cash flow adjusted for finance leases was $20.2 billion, an improvement of $41.7 billion year over year. The largest driver of the improvement in free cash flow is our increased operating income, which we're seeing across all three of our segments. Key drivers of this improvement include reductions in our cost to serve, continued advertising growth and improved leverage on our fixed costs.
+
+We are also seeing improvements in working capital, notably with our inventory efficiency as we improve our inventory placement. Now let's turn to our capital investments. We define our capital investments as a combination of capex plus equipment finance leases. These investments were $50 billion for the trailing 12-month period ended September 30th, down from $60 billion in the comparable prior-year period.
+
+For the full year 2023, we expect capital investments to be approximately $50 billion, compared to $59 billion in 2022. We expect fulfillment and transportation capex to be down year over year, partially offset by increased infrastructure capex to support growth of our AWS business, including additional investments related to generative AI and large language model efforts. As we head into the fourth quarter, we are ready to make this a great holiday season for our customers. Looking at our operations network, our inventory is in the best position it's ever been heading into the holiday season, enabling us to serve customers with fast delivery speeds from their local regions.
+
+We continue to believe putting customers first is the only reliable way to create lasting value for our shareholders. With that, let's move on to questions.
+
+Questions & Answers:
+
+Operator
+
+Thank you. At this time, we will now open the call up for questions. We ask each caller to please limit yourself to one question. [Operator instructions] At this time, please hold while we poll for questions.
+
+Thank you. And the first question comes from the line of Justin Post with Bank of America. Please proceed with your question. Justin, your line is live. 
+
+Justin Post -- Bank of America Merrill Lynch -- Analyst
+
+Thanks. Thanks for that. I'll ask about AWS. I guess the first question is, as you look forward in the fourth quarter, you mentioned you've signed some new deals.
+
+Are you seeing less cost optimization as you look forward? Or do you think it will be similar to Q3? And then second, you couldn't help but notice the big margin improvement in AWS all the way back to where you were seven quarters ago. Could you talk about the drivers and sustainability of those margins? Thank you.
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah, Justin. Sure. This is Andy. I think if you look at AWS, we grew 12% year over year.
+
+And I think that you saw a continued stabilization of our year-over-year growth rate. And included $919 million of incremental quarter-over-quarter revenue, which it's hard to compare and do the math across different players because not everyone discloses them clearly. But as far as we can tell, that also looks like the most absolute growth of any of the players out there. We're still seeing elevated customer optimization levels than we've seen in the last year or year before this, I should say.
+
+So, if you look at the optimization, it's more than a year ago, but it's meaningfully attenuating from where we've seen in the last few quarters. And if you look at the optimization too, what's interesting is it's not all customers deciding to shut down workloads. A very significant portion of the optimization are customers taking advantage of enhanced price performance capabilities in AWS and making use of it. So, for example, if you look at the growth of customers using EC2 instances that are Graviton based, which is our custom chip that we built for generalized CPUs, the number of people and the percentage of instances launched their Graviton base as opposed to Intel or AMD base is very substantially higher than it was before.
+
+And one of the things that customers love about Graviton is that it provides 40% better price performance than the other leading x86 processors. So, you see a lot of growth in Graviton. You also see a lot of customers who are moving from the hourly on demand rates for significant portions of their workloads to one- to three-year commitments, which we call savings plans. So, those are just good examples of some of the cost optimization that customers are making in less certain economies where it's really good for customers short and long term, and I think it's also good for us.
+
+But we're starting to see -- as I said, we're seeing that optimization attenuate. I expect that to continue over time. I remain very optimistic about AWS in the medium to long term. And it's because we have the most functionality by a large amount.
+
+We have a much larger partner ecosystem than you'll find elsewhere. We have stronger security and operational performance than you can find elsewhere. I think we're the most customer-focused. Even if you look during optimization times in this difficult economy, customers have really noticed how AWS leaned in with them for the long term.
+
+And I think that matters to customers. And then we have a $92 billion revenue run rate business where 90% of the global IT spend still resides on premises. And if you believe like we do, that equation is going to flip. There's a lot more there for us.
+
+And then you look at the very substantial gigantic new generative AI opportunity, which I believe will be tens of billions of dollars of revenue for AWS over the next several years, I think we have a unique and broad approach that's really resonating with customers. And you can see it with the array of customers I mentioned that are using us and starting to build workloads for generative AI who have already on top of us. I could see it also. Just the growth rate for us in generative AI is very fast.
+
+Again, I have seen a lot of different numbers publicly. It's real hard to measure an apples-to-apples. But in our best estimation, our -- the amount of growth we're seeing and the absolute amount of generative AI business we're seeing compares very favorably with anything else I've seen externally. So, I think that you can see that in the deals that we're doing, too.
+
+I spoke about the significant number of deals that we've closed over the last couple of months. A lot of those conversations, it's -- a big piece of it is what I mentioned earlier, the functionality, the ecosystem, the operational performance, the security, how you take care of customers, but also whether or not they like your vision and set of products that you're building in this brand-new technology space, generative AI, which I think has been very effective so far. So, to me, I think there's a lot of growth in front of AWS. I'm very optimistic about it.
+
+Brian Olsavsky -- Chief Financial Officer
+
+And Justin, on your comment about -- a question about AWS margins. So, yeah, the margin improved 600 basis points quarter over quarter, an increase of income of $1.6 billion quarter over quarter for AWS, is driven by -- primarily by our headcount reductions in Q2 and also continued slowness in hiring, rehiring open positions. There's been also a lot of cost control in nonpeople categories, things like infrastructure costs and also discretionary costs. Natural gas prices and other energy costs have come down a bit in Q3 as well.
+
+So, as we've said historically, the margins on -- the operating margin for AWS is going to fluctuate quarter to quarter, and this is a good example of that.
+
+Operator
+
+Our next question is from Doug Anmuth with JPMorgan. Please proceed with your question. 
+
+Doug Anmuth -- JPMorgan Chase and Company -- Analyst
+
+Thanks very much. Can you just talk more about how the regional fulfillment network is exceeding your expectations? And then also, how does that support your confidence in moving North America beyond mid-single-digit margin levels? And then just perhaps on generative AI, obviously, a lot of innovation here. You talked about a number of different customers running early workloads. How should we think about the timing, just to drive some tangible monetization there? Thank you.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Well, I'll start. The -- on regionalization, I think it was such a significant change for us in the network. It's hard to really appreciate with a big change across so many dimensions it was that first to make such a change has all sorts of risk. And I think the team did a great job planning around it and being very thorough.
+
+I think that we were able, with our placement algorithms, to get more regional local in-stock levels than we anticipated. And then I think until you actually put all the connections together, we changed a lot of the connections from a lot of these middle connections going from fulfillment centers to sortation centers and then to delivery stations to connecting the fulfillment centers and delivery stations more directly, which, of course, is easier to do when you have more local in stock in a region. But I think that we were able -- the connections that we made and the optimization that we made there allowed us to get shorter transportation distances than we even anticipated in items to people a lot quicker. And then always one of the issues you got to worry about when you make a change that big is whether or not you end up splitting shipments and having more -- fewer items per box and per shipment.
+
+And that was also something that we really had to work through in the design and in the early stages, and we've gotten a lot better on. So, we're just across the board, we're seeing shorter transportation distances and much faster delivery to customers. And when you deliver faster delivery to customers, they actually start to consider you for a lot more items than they otherwise would. I think it's part of what -- if you look at our very significant growth rates right now in everyday essentials and consumables, a lot of it is when you -- if you're going to order something which you need in the same day or next day, you're not going to consider it if it's coming in three or four days.
+
+But when you're consistently getting it in same day or the next day, just changes what you're willing to do. I think the second question was on gen AI and the timing of monetization. What I would tell you is that we have been surprised at the pace of growth in generative AI. Our generative AI business is growing very, very quickly, as I mentioned earlier.
+
+And almost by any measure, it's a pretty significant business for us already. And yet I would also say that companies are still in the relatively early stages. I mean now you have to get perspective. My perspective is that the cloud is still in the early stages.
+
+If you think about 90% plus of the global IT spend being on-premises, where I think that equation is going to flip in 10 years. I think cloud is early. So, if you -- with that lens on, I still think we're very early in generative AI. And what's interesting, too, around generative AI because we have so many companies who are doing all sorts of prototypes and it's really accelerating very rapidly on the training side with Trainium and Inferentia and then on the application building and running side with Bedrock, is that companies are still trying to sort out for themselves what they're going to run at large-scale production in all of these areas.
+
+Because what happens is you try a model, you test the model, you like the results of the model and then you plug it into your application. And what a lot of companies figure out quickly is that using the really large -- the large models and the large sizes ends up often being more expensive than what they anticipated and what they want to spend on that application. And sometimes too much latency in getting the answers as it shovels through the really large models. And so, customers are experimenting with lots of different types of models and then different model sizes to get the cost and latency characteristics that they need for different use cases.
+
+And it's one of the things that I think is so useful about Bedrock is that customers are trying so many variants right now but to have a service that not only lets you leverage lots of third party, as well as Amazon large language models, but also lots of different sizes and then makes the transition of moving those workloads easy between them is very advantageous.
+
+Operator
+
+Our next question is from Brian Nowak with Morgan Stanley. Please proceed with your question.
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Thanks for taking my question. I have two, one on AWS, one on the retail business. On AWS AI, Andy, I recognize you have a pretty multipronged AI approach. But just could you talk us through sort of one or two of the early generative AI products where you're seeing, the most early demand and interest? And as you talk to customers, are there still hurdles or pain points that you're not quite serving in your product suite you look to solve and innovate on over the next couple of years in AI? And then the second one, you made a lot of steps on the regionalization of warehouses and making it more efficient.
+
+Where are you on robotics in the warehouses? And how should we think about the potential impact of that to drive profitability even higher?
+
+Andy Jassy -- Chief Executive Officer
+
+On the AI side, I think that if you're looking for some of the products that we're offering that are -- that have a lot of early resonance and traction, I would -- I'd start with Bedrock. These customers are -- they're very excited about Bedrock. And it's making it so much easier to get applications, generative AI applications built. And again, it's machine learning and AI has been something that people have been excited about for 25 years.
+
+In my opinion, about a half dozen years ago, it took a pretty significant leap forward where it was much easier given the economics and scalability of compute and storage and then some of the tools that we built like SageMaker, it was much easier for everyday developers to start to interact with AI. But it just -- it took another meaningful step forward with generative AI, but still it's complicated to actually figure out which models you want to work, you want to use and how you actually want to employ them and trying to make sure you have the right results, trying to make sure you get safe results, trying to make sure you end up with a cost structure and a customer experience that you want. And so, it's hard. And customers will like -- there's a certain number of customers who have very deep AI expert practitioners, but most companies don't.
+
+And so, Bedrock just takes so much of the difficulty out of those decisions and those variables that people are very excited about Bedrock. They're using it in a very broad way. They're extremely excited about not just the set of models in there, but if you look at a leader like Anthropic and the ability for our customers in Bedrock to have exclusive early access to models and customization tools and fine-tuning which gives them more control, there's just -- there's a lot of buzz and a lot of usage and a lot of traction around Bedrock. I would also say our chips, Trainium and Inferentia, as most people know, there's a real shortage right now in the industry in chips.
+
+It's really hard to get the amount of GPUs that everybody wants. And so, it's just another reason why Trainium and Inferentia are so attractive to people. They have better price performance characteristics than the other options out there, but also the fact that you can get access to them. And we've done, I think, a pretty good job providing supply there and ordering meaningfully in advance as well.
+
+And so, you're seeing very large LLM providers make big bets on those chips. I think Anthropic deciding to train their future LLM model on Trainium and using Inferentia as well is really a statement. And then you look at the really hot start-up Perplexity.ai, who also just made a decision to do all their training and inference on top of Trainium and Inferentia. So, those are two examples.
+
+I'd say CodeWhisperer, too, is just, again, it's just a game changer if you can allow your engineers not to have to do the more repetitive work of cutting and pasting and building certain functions that really, if somebody knew your code base better, could do. And so, it's a real -- it's a productivity game changer for developers. And then actually launching that customization vehicle so that they actually understand your own proprietary code base, that is something that customers are quite excited about. So, those are ultimately early traction AI.
+
+There's so much more to provide, Brian. I mean there's -- I think people -- even though Bedrock is so much easier to use than people trying to build models themselves and build the applications, I think people are still looking to find ways to make it easier to look at a big corpus of data and run an agent on top of it or maybe they don't have to do all that work themselves. I think people are looking for automated ways to understand different developer environments and be able to ask any question on the developer environment. So, there's a lot more.
+
+It's going to be a long time before we run out of services. And yes, I think it's a good thing to look toward the next few months in re:Invent to see the additional things that team launches. I think on the robotics piece, it's a very significant investment for us. It has been for several years.
+
+It's made a huge difference for us. It's made a big difference for us both on the productivity side, on the cost side, as well as importantly on the safety side where we can have our teammates working on things that are even safer than what they get to work on today. We have a very substantial investment of additional robotics initiatives, I would say many of which are coming to fruition in '24 and '25 that we think will make a further additional impact on the cost and productivity and safety in our fulfillment centers.
+
+Operator
+
+Our next question comes from the line of Eric Sheridan with Goldman Sachs. Please proceed with your question.
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Thanks so much for taking the questions. Maybe one follow-up on AWS and one on the ads business. Andy, would love your perspective. The cloud optimization theme started in the second half of '22 when there were a lot of macro concerns.
+
+And then the AI theme really only sort of came to the forefront in the last eight or nine months. What's your perspective on how turning the calendar into 2024 and there being a new IT budget cycle could possibly lead us to put the optimization theme in the background and some of the AI theme come more to the forefront when there might be more distinct budgeting around AI as a theme? That would be number one. And then in your ads business, you're approaching $50 billion run rate, and it's compounding in the mid-20s. What are you most excited about on the initiative front to continue to build scale both on Amazon properties and possibly off Amazon as a broader digital advertising player? Thanks so much.
+
+Andy Jassy -- Chief Executive Officer
+
+On the AWS side, my perspective, we'll obviously all have to wait and see to some extent. But my perspective is that in 2024, you're going to -- I think a lot of the relatively low-hanging fruit on optimization has happened in 2023. It's not to say there won't be any more optimization. It's just that there's more low-hanging fruit when you have very large footprints and you've built a lot of applications on a platform for you to go decide to optimize if that's what you want to go do.
+
+And so, I think 2020 -- we're already seeing it now with the attenuation of optimization over the last several months. But I think you'll continue to see the attenuation continue, and we're already seeing more and more companies that are turning their attention to newer initiatives. And I think what you will see in '24 and '25 as well, I think -- I don't think it's a one-year deal, I think that's going to be a several-year trajectory, is that you're going to just see a lot of companies not just looking at the new generative AI workloads, but also there was a significant number of new customer transformations where companies were going to largely move from being on-premises to being in the cloud. That got stalled in 2023 because companies were being more conservative with their spend and wary of an uncertain economy.
+
+And so, I think that what you'll see increasingly is that companies will both go back to those transformations they were planning on making and working with a lot of systems integrator partners, as well as ourselves, as well as start to see the production in large scale of the generative AI applications that they're all working on and prototyping and starting to deploy into production. I think on the ad front, well, there's a lot I'm excited about on the ad side as well. I think that it's interesting what's happening in our ads business as, if you look around the industry, most advertising-heavy companies have struggled growth-wise as the economy has been difficult. And while we see companies being more cautious on the ad side and the top-of-funnel products, things like display and a little bit of video, we're still seeing a lot of strength in the lower-funnel ad products like sponsored products.
+
+And I think in these types of economies, we have fared pretty well in part because we have a number of owned and operated properties that have very large volumes that advertisers and brands want to get in front of. Even in a harder economy, there's going to be a lot of e-commerce purchasing. So, people want to be in front of our customers in our marketplace. Or take "Thursday Night Football," which is we're in our second season of "Thursday Night Football," and off to a great start, the ratings are 25% higher than they were a year ago through six weeks.
+
+But also, we're doing much better on the advertising side than we did in our first year, and that's a property that's really valuable. It's the one game that week, and advertisers want to be in front of customers because there's 13 million customers a week watching. So, I think part of it is because we have owned and operated properties that have a lot of volume. And then I think the other piece is that most of our resource in the advertising side is spent on machine learning expert practitioners who are honing algorithms to make sure that the sponsored results people get when they search on something are relevant.
+
+And because of that, those ads perform better for advertisers. So, when they have to think about budget decisions, they're going to choose the ones that have large volume and perform better. I think both of those are real advantages in our advertising area right now. In terms of additional things we're excited about.
+
+I think that we have barely scraped the surface with respect to figuring out how to intelligently integrate advertising into video, into audio and into grocery. So, I think we're early days in that. I think that we also started externalizing some of our products like sponsored products to third-party websites. And you see that with what we've done with Pinterest, Hearst Newspapers and BuzzFeed, so I think there's -- again, we're still pretty early in that area, but it's growing well, and we're very focused on continuing to in a great customer experience.
+
+Operator
+
+And our final question comes from the line of Mark Mahaney with Evercore ISI. Please proceed with your question.
+
+Mark Mahaney -- Evercore ISI -- Analyst
+
+OK. On those AWS deals, Andy, that you talked about in the September quarter, was there something different about those deals, different industry, different verticals, different geographic markets? Or is it just kind of a resumption of kind of the deal flow that you've had in years past? So, that's the first question. And secondly, Brian, international. Is international finally at a point where it can be sustainably profitable going forwards, maybe except for the seasonally challenged March quarter? Have you wrung out enough efficiencies and gotten enough scales? And the oldest markets there are big enough and scalable enough and profitable enough that it offsets the newer countries? Have you finally reached that point? Thanks.
+
+Brian Olsavsky -- Chief Financial Officer
+
+First, just to give Andy a break. On international, thanks for your question. Yes, the quarter was just short of breakeven. And as you pointed out, that's a departure from kind of prior trends.
+
+I would answer that question this way. There's multiple things going on internationally. In our established countries, U.K., Germany, Japan, France, those countries are profitable and have been profitable. And we continue to work on price selection and convenience.
+
+And all that retail base is essentially adding sellers, adding vendors and selection, scaling advertising and improving the cost structure of our ops network. So, many of the ops productivity initiatives, probably with the exception of regionalization, is more of a U.S. side right now. But we're working on all those productivity elements and speed concurrently globally.
+
+And you're seeing that internationally and customers are responding. On the emerging side, over the last six years, we've launched 10 new countries. History has shown us that those all take time to grow into profitability. The U.S.
+
+took 10 years -- excuse me, nine years originally. And they're all on their own journey there with growth and scale and profitability and selection and a number of other variables. So, that's -- those are all going well as well. We continue -- we're going to continue to invest internationally in things like Prime and expanding Prime benefits, and we're going to continue to build out the fulfillment and transportation networks to better serve customers.
+
+So, I can't say it's permanently we've reached a breakeven threshold for profitability. I think the trend lines are clear, though, and we'll continue to work on accelerating that journey in all countries, especially the emerging ones.
+
+Andy Jassy -- Chief Executive Officer
+
+On the AWS deals, it's a really broad mix of industries and geographies. So, it's not comped up in one. Some are kind of first really big deals from customers. Some of them are very large expansions of existing agreements where they've gone from call it, 20% of their workloads to 50% of their workloads moving to AWS in the cloud.
+
+It's also -- I'm not even really including in that number, a number of really big public sector deals that we've done over the last chunk of time that won't hit for a period of time. And so, all these deals don't hit in a month. They happen over a period of time as you help those customers safely transition and migrate their workloads to AWS. But it hasn't been any one piece.
+
+And I wish I could tell you we knew exactly why they're starting to happen in faster numbers. I do think, in general, historically, deal volume tends to be lumpy, and it doesn't perfectly distribute over a calendar year. I do think though that we've seen this in '23, for sure, that the time to close deals lengthened. And I think it's all reflective of what most companies in the world have been thinking about the last year, which is just in the face of uncertain economy, you're going to be more conservative.
+
+There are going to be more people involved. You're going to spend more time on how you can save on your existing cost instead of migrating new workloads or thinking about signing new deals. And so, I think what you're just starting to see along with some of the optimization attenuation is that companies are starting to look forward again. And so, we've just seen a collection of those the last couple of months that had been -- being discussed for several months where I think, frankly, both sides thought they would close faster, but just went slower than they did.
+
+So, I just think you're starting to see companies look forward more.
+
+Dave Fildes -- Director, Investor Relations
+
+Thanks for joining us today for the call and for your questions. A replay will be available on our investor relations website for at least three months. We appreciate your interest in Amazon and look forward to talking with you again next quarter.
+
+Operator
+
+[Operator signoff]
+
+Duration: 0 minutes
+
+Call participants:
+Dave Fildes -- Director, Investor Relations
+
+Andy Jassy -- Chief Executive Officer
+
+Brian Olsavsky -- Chief Financial Officer
+
+Justin Post -- Bank of America Merrill Lynch -- Analyst
+
+Doug Anmuth -- JPMorgan Chase and Company -- Analyst
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Mark Mahaney -- Evercore ISI -- Analyst
+==============================
+AMZN earnings call for the period ending June 30, 2023.
+Logo of jester cap with thought bubble.
+IMAGE SOURCE: THE MOTLEY FOOL.
+
+Amazon.com (AMZN -0.68%)
+Q2 2023 Earnings Call
+Aug 03, 2023, 5:30 p.m. ET
+
+Contents:
+Prepared Remarks
+Questions and Answers
+Call Participants
+Prepared Remarks:
+
+Operator
+
+Good day, everyone, and welcome to the Amazon.com Quarter 2 2023 financial results teleconference. At this time, all participants are in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Today's call is being recorded.
+
+For opening remarks, I will be turning the call over to the vice president of investor relations, Dave Fildes. Thank you. Sir, please go ahead.
+
+Dave Fildes -- Director, Investor Relations
+
+Hello, and welcome to our Q2 2023 financial results conference call. Joining us today to answer your questions is Andy Jassy, our CEO; and Brian Olsavsky, our CFO. As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results, as well as metrics and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2022.
+
+Our comments and responses to your questions reflect management's views as of today, August 3, 2023, only and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings. During this call, we may discuss certain non-GAAP financial measures.
+
+10 stocks we like better than Amazon
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Amazon wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of February 5, 2024
+
+In our press release, slides accompanying this webcast and our filings with the SEC, each of which is posted on our IR website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures. Our guidance incorporates the order trends that we've seen to date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions, and customer demand and spending, including the impact of recessionary fears, inflation, interest rates, regional labor market constraints, world events, the rate of growth of the Internet, online commerce and cloud services and the various factors detailed in our filings with the SEC. Our guidance assumes, among other things, that we don't conclude any additional business acquisitions, restructurings, or legal settlements.
+
+It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance. And now I'll turn the call over to Andy.
+
+Andy Jassy -- Chief Executive Officer
+
+Thank you, Dave. Good afternoon, everyone, and thanks for joining us. Today, we are reporting $134.4 billion in revenue and $7.7 billion in operating income, both of which exceeded the top end of our guidance ranges. We're encouraged by the progress we're making on several key priorities, namely lowering our cost to serve in our stores business, continuing to innovate on and improve our various customer experiences, and building new customer experiences that can meaningfully change what's possible for customers in our business long term.
+
+I'll start with our ongoing effort to lower our costs to serve in our stores' fulfillment network. Q2 saw another meaningful improvement in this area as we have steadily made progress the last several quarters. Central to our efforts has been the decision to transition our stores' fulfillment and transportation network from one national network in the United States to a series of eight separate regions serving smaller geographic areas. We keep a broad selection of inventory in each region, making it faster and less expensive to get those products to customers.
+
+Regionalization is working and has delivered a 20% reduction in number of touches for our delivered package, a 19% reduction in miles traveled to deliver packages to customers, and more than a 1,000-basis-point increase in deliveries fulfilled within region, which is now at 76%. This is a lot of progress. Sometimes I hear people make the argument that Amazon is chasing faster speed while driving its costs higher and where it doesn't matter much to customers. This argument is incorrect.
+
+There are two things to note. First, customers care a lot about faster delivery. We have a lot of data that shows when we make faster delivery promises on a detail page, customers purchase more often, not just a little higher, meaningfully higher. It's also true that when customers know they can get their items really quickly, it changes their consideration of using us for future purchases, too.
+
+Second, when shipments come from fulfillment centers that are closer to customers, they travel shorter distances, which cost less in transportation, get there faster, and is better for the environment. There's a lot of goodness in that equation. This ability to have shipments closer to customers is the result of a lot of work and invention on the regionalization side, placement logic, and local in-stock algorithms. It's also driven by our development and expansion of same-day fulfillment facilities, which is our fastest fulfillment mechanism and one of our least expensive, too.
+
+Our same-day facilities are located in the largest metro areas around the U.S. So, our top moving 100,000 SKUs but also cover millions of other SKUs from nearby fulfillment centers that inject selection into these same-day facilities and have a design that streamlines getting items from order to being ready for delivery in as little as 11 minutes. The experience has been so positive for customers in our business that we're planning to double the number of these facilities. We believe that we are far from the law of diminishing returns and improving speed for customers.
+
+While we're seeing strong early results from this regionalization effort, we still see several ways in which we can be more efficient in this structure and we believe will improve productivity further. We've also reevaluated virtually every part of our fulfillment network this past year and see additional structural changes we can make that provide future upside. We're excited about this cost to serve improvement but also remain maniacally focused on making customers' lives easier and better every day and relentlessly inventing to make it so. This means constantly trying to improve experiences that we can deliver to customers short and long term.
+
+This customer experience work is at the heart of what we do every day across every one of our businesses. Now, I can spend an hour on this call detailing various examples across the teams. For today, I'll just focus a bit on our stores and AWS businesses. For stores, our priorities continue to be providing customers with great selection, low prices, and convenience.
+
+And as we've discussed, we've been especially focused on providing even faster delivery speeds. Our speed of delivery has never been faster. In this last quarter, across the top 60 largest U.S. metro areas, more than half of Prime members' orders arrived at the same day or next day.
+
+So, far this year, we've delivered more than 1.8 billion units to U.S. Prime members the same or next day, nearly four times what we delivered at those speeds by this point in 2019. Lowering our cost to serve allows us not only to invest in these speed improvements but also add more selection at lower price points. In particular, we're growing our selection in everyday essentials, enabling customers to avoid going out to get these items and both increasing our basket sizes and the frequency with which customers choose to shop with us.
+
+We now have more than 300 million items available with U.S. Prime free shipping, including tens of millions of items with free same-day and one-day delivery. We're continuing to focus on providing great value with tens of millions of deals that help customers stretch their dollar or more. For instance, in Q2 of '23, we offered customers 144% more deals and coupons than we did in Q2 of 2022.
+
+Prime Day was similar. Amazon offered more deals than any past Prime Day event with a wide selection across millions of products. Prime members purchased more than 375 million items worldwide and saved more than $2.5 billion across the Amazon store, helping make it the biggest Prime Day ever. Next, a few words about AWS.
+
+AWS remains the clear cloud infrastructure leader with a significant leadership position with respect to number of customers, size of partner ecosystem, breadth of functionality, and the strongest operational performance. These are important factors for why AWS has grown the way it has over the last several years and for why AWS has almost doubled the revenue of any other provider. I've talked to many AWS customers over the years and continue to do so. And while all these factors I mentioned have been big drivers of the business's success, AWS customers tell us that, as importantly, they care about the very different customer focus and orientation in AWS they don't see elsewhere.
+
+As the economy has been uncertain over the last year, AWS customers have needed assistance cost optimizing to withstand this challenging time and reallocate spend to newer initiatives that better drive growth. We've proactively helped customers do this. And while customers have continued to optimize during the second quarter, we've started seeing more customers shift their focus toward driving innovation and bringing new workloads to the cloud. As a result, we've seen AWS' revenue growth rate stabilize during Q2 where we reported 12% year-over-year growth.
+
+The AWS team continues to innovate and change what's possible for customers at a rapid clip. You can see across the array of AWS product categories where AWS leads in compute, networking, storage, database, data solutions, and machine learning, among other areas, and the continued invention and delivery in these areas is pretty unusual. For instance, a few years ago, we heard consistently from customers that they wanted to find more price-performant ways to do generalized compute. And to enable that, we realized that we needed to rethink things all the way down to the silicon and set out to design our own general-purpose CPU chips.
+
+Today, more than 50,000 customers use AWS' Graviton chips and AWS Compute instances, including 98 of our top 100 Amazon EC2 customers, and these chips have about 40% better price performance than other leading x86 processors. The same sort of reimagining is happening in generative AI right now. Generative AI has captured people's imagination, but most people are talking about the application layer, specifically what OpenAI has done with ChatGPT. It's important to remember that we're in the very early days of the adoption and success of generative AI and that consumer applications is only one layer of the opportunity.
+
+We think of large language models in generative AI as having three key layers, all of which are very large in our opinion and all of which AWS is investing heavily in. At the lowest layer is the compute required to train foundational models and new inference or make predictions. Customers are excited by Amazon EC2 P5 instances powered by NVIDIA H100 GPUs to train large models and develop generative AI applications. However, to date, there's only been one viable option in the market for everybody and supply has been scarce.
+
+That, along with the chip expertise we've built over the last several years, prompted us to start working several years ago on our own custom AI chips for training called Trainium, and inference called Inferentia that are on their second versions already and are a very appealing price performance option for customers building and running large language models. We're optimistic that a lot of large language model training and inference will be run on AWS' Trainium and Inferentia chips in the future. We think of the middle layer as being large language models as a service. Stepping back for a second, to develop these large language models, it takes billions of dollars and multiple years to develop.
+
+Most companies tell us that they don't want to consume that resource building themselves. Rather, they want access to those large language models, want to customize them with their own data without leaking their proprietary data into the general model, have all the security, privacy, and platform features in AWS work with this new enhanced model, and then have it all wrapped in a managed service. This is what our service Bedrock does and offers customers all of these aforementioned capabilities with not just one large language model but with access to models from multiple leading large language model companies like Anthropic, Stability AI, AI21 Labs, Cohere, and Amazon's own developed large language models called Titan. Customers, including Bridgewater Associates, Kota, Lonely Planet, Omnicom, 3M, Ryanair, Showpad, and Travelers are using Amazon Bedrock to create generative AI application.
+
+And we just recently announced new capabilities from Bedrock, including new models from Cohere, Anthropic's Cloud 2, and Stability AI's Stable Diffusion XL 1.0, as well as agents for Amazon Bedrock that allow customers to create conversational agents to deliver personalized up-to-date answers based on their proprietary data and to execute actions. If you think about these first two layers I've talked about, what we're doing is democratizing access to generative AI, lowering the cost of training and running models, enabling access to large language model of choice instead of there only being one option, making it simpler for companies of all sizes and technical acumen to customize their own large language model and build generative AI applications in a secure and enterprise-grade fashion, these are all part of making generative AI accessible to everybody and very much what AWS has been doing for technology infrastructure over the last 17 years. Then that top layer is where a lot of the attention of focus, and these are the actual applications that run on top of these large language models. As I mentioned, ChatGPT is an example.
+
+We believe one of the early compelling generative AI applications is a coding companion. It's why we built Amazon CodeWhisperer, an AI-powered coding companion, which recommends code directly in the accelerating developer productivity as they code. It's off to a very strong start and changes the game with respect to developer productivity. Inside Amazon, every one of our teams is working on building generative AI applications that reinvent and enhance their customers' experience.
+
+But while we will build a number of these applications ourselves, most will be built by other companies, and we're optimistic that the largest number of these will be built on AWS. Remember, the core of AI is data. People want to bring generative AI models to the data, not the other way around. AWS not only has the broadest array of storage, database, analytics, and data management services for customers, it also has more customers and data store than anybody else.
+
+Coupled with providing customers with unmatched choices at these three layers of the generative AI stack, as well as Bedrock's enterprise-grade security that's required for enterprises to feel comfortable putting generative AI applications into production, we think AWS is poised to be customers' long-term partner of choice in generative AI. We're also continuing to make meaningful progress in building new customer experiences that can meaningfully change what's possible for customers in our business long term. Amazon Business is one of our fastest-growing offerings with a $35 billion annual gross sales run rate. And the team is working hard to further build out the selection, value, convenience, and features that business customers need.
+
+Buy with Prime is continuing to show a lot of progress. Merchants in early trials who use Buy with Prime saw their shopper conversion increased by 25% on average, which makes a real difference to their business. Also, merchants who participate in Prime Day activities, in aggregate, experienced a 10x increase in daily Buy with Prime orders during the sales event period versus the month before we announced Prime Day. It's, frankly, only been a short amount of time that we've decided to invest significantly in the healthcare market segment.
+
+A lot of what we tried before were smaller experiments. But we're pleased with Amazon Pharmacy doubling its active customers in the past year, and we're pleased with the response to RxPass, which enables Prime members to receive all of their eligible generic medications for just $5 a month and have them delivered free to their door. One Medical has been part of Amazon for just a few months now and we're encouraged by what we're seeing there, too. Our grocery business continues to grow.
+
+We already have a very large business in nontemperature-controlled areas like consumables, pet food, beauty, and canned goods that continues to grow as we keep increasing speed and lowering our cost to serve, which allows us to sell more items more cost-effectively. Whole Foods continues to lead the organic grocery space, is growing at a healthy clip, and has meaningfully improved its profitability in the last year. We're pleased with what we're seeing with Whole Foods. And as I've shared before, we're working on new formats in our mass physical store offering, Amazon Fresh, having significantly improved the number of the key business inputs and just rolled out new concepts in stores.
+
+We also see substantial innovation and progress in other areas like Kuiper, Zoox, and Alexa. We're still relatively early in many of our investments with technology inventions that are changing what's possible to deliver for customers in these areas, but they're big long-term opportunities that we remain optimistic about. Finally, I want to recognize our teams on being named No. 1 in LinkedIn's Top Companies to Grow Your Career in the United States.
+
+It's a testament to our work to be a great employer with leading compensation benefits and upskilling opportunities. With that, I'll turn it over to Brian.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Thank you, Andy. As Andy mentioned, we saw worldwide revenue of $134.4 billion, an increase of 11% year over year and above the top end of our guidance range. We are encouraged by the strength in our reported revenue, which is another proof point that our focus on price, selection, and convenience continues to resonate with customers. We continue to see healthy demand across everyday essentials and in categories like beauty and health and personal care and have seen a positive customer response to improvements in personalization and enhancements to our website and mobile app.
+
+During the quarter, we also saw improvements in macroeconomic indicators across our North America and international segments but continue to see customers trading down and seeking value in their purchases. Delivery speed has been a key area of focus over the last several quarters and we reached record levels during Q2. Prime members love the faster ship speeds and are shopping more often. Advertising revenue remained strong, up 22% year over year.
+
+Our performance-based advertising offerings continue to be the largest contributor to our growth. Our teams worked to increase the relevancy of the ads we show to our customers by leveraging machine learning and improve our ability to measure the return on advertising spend for brands. Third-party unit mix increased to 60% during the quarter, the highest level we've ever seen, and we're continuing to see good growth in the number of sellers and the unit sold per seller. We're making steady progress on improving our worldwide stores' profitability.
+
+Since North America segment operating margins bottomed out in Q1 of 2022, we have seen five consecutive quarters of improvement, with second-quarter operating margin of 3.9%. This is an improvement of 620 basis points over these past five quarters. One of the largest drivers of this operating income improvement in the stores business has been reducing our cost to serve, with shipping costs and fulfillment costs continuing to grow at a slower pace than our unit growth. Most recently, regionalization is an important contributor.
+
+Faster delivery speed from better network connectivity and better inventory placement means less miles traveled and fewer touches, resulting in less cost. And while we are pleased with the progress we have made, we see more opportunity to drive improved cost efficiencies going forward. Moving to the international segment. Since our operating margin loss bottomed out in Q3 of last year, we have seen three consecutive quarters of improvement with a second-quarter margin loss of negative 3%.
+
+This is an improvement of 590 basis points over the last three quarters. This segment also includes our emerging countries. It is important to remember how early we are in some of these marketplaces. We've launched more than 10 countries in the past six years and are always evaluating our customer experience, as well as our path to profitability, and we like the path we're on.
+
+As a reminder, it took us nine years to reach profitability in the United States. In addition, across our North America and international results, inflation headwinds also continue to ease, most notably in fuel prices, linehaul rates, ocean, and rail rates. Moving to AWS. Year-over-year revenue growth was 12% with growth rates stabilizing during Q2.
+
+We are encouraged by the strength of our customer pipeline and believe having a large diverse customer base that is mostly cost-optimized sets us up well for future growth. On a trailing 12-month basis, free cash flow was positive and improved for the fourth sequential quarter. Our financial focus remains on driving long-term sustainable free cash flows. The largest driver of the recent improvement in free cash flow is our increased operating income, most notably in the North America and international segments where, as I said, we've made meaningful improvement in our fulfillment network productivity and operating leverage and benefited from moderating inflationary pressures.
+
+We've also seen improvements in our working capital contributions to free cash flow. Over the past couple of years, working capital hasn't been as efficient as we've held higher weeks of cover of inventory in the face of supply chain disruptions. Most recently, as these disruptions continue to ease, we are improving our inventory efficiency, resulting in improvements in our working capital. We will remain focused on continued free cash flow improvement moving forward.
+
+Next, let's turn to our capital investments. We define our capital investments as a combination of capital expenditures plus equipment finance leases. These investments were $54 billion for the trailing 12-month period ended June 30, down from $61 billion in the comparable prior year period. Looking ahead to the full year 2023, we expect capital investments to be slightly more than $50 billion compared to $59 billion in 2022.
+
+We expect fulfillment and transportation capex to be down year over year, partially offset by increased infrastructure capex to support growth of our AWS business, including additional investments related to generative AI and large language model efforts. With that, let's move on to your questions.
+
+Questions & Answers:
+
+Operator
+
+At this time, we will now open the call for questions. We ask each caller to please limit yourself to one question. [Operator instructions] At this time, please hold while we poll for questions. Thank you.
+
+And our first question comes from the line of Colin Sebastian with Baird. Please proceed with your question.
+
+Colin Sebastian -- Robert W. Baird and Company -- Analyst
+
+Great. Thanks. Good afternoon. I guess first on the fulfillment efficiency.
+
+Would be curious if you could give us a sense for how much of that optimization in the network with unit economics may have already been achieved in these numbers versus how much more you think is left to go. And related to that, I'm curious if you can leverage this reformulated network to help out with the grocery expansion. Or will that be limited to the stores and the specialized automated facilities you're building out? Thank you.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Thanks, Colin. I'll take that first one. So, on fulfillment efficiency, we're encouraged again by what we're seeing with regionalization and also the efforts to control our cost structure and the -- some of the inflationary pressures coming down. We're still in that journey, though, to reclaim the cost structure that we had previously, and we consider this as a point along the road.
+
+So, encouraged by some of the margin improvements we're seeing, particularly over the last three to five quarters, but we're still underway. There's still a lot to be regained in our fulfillment area and the teams are working very hard on it. On the question of grocery, as Andy explained at different points, our grocery business has a lot of dimensions to it. Obviously, there's consumables, there's fresh goods, there's Whole Foods.
+
+The same -- sub-same-day is probably mostly impacting the first -- that pocket of the consumables and everyday essentials. And as Andy mentioned, we're able to expand our selection in those areas because our cost structure can, quite frankly, afford it when the distances of customers are shorter, and the transportation costs are more fixed.
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah. I'll just add to that, this is Andy, that I do think there's some optimization and some leverage we get from our fulfillment network. And particularly in the case of being able to inject a number of items into our same-day facilities, to increase the number of items that people can add at the last minute, even grocery items that they can get same day. And I think that you see some of that already, and you'll see more of that moving forward.
+
+And I also think that you'll see over time that we're going to be able to leverage being able to have -- people be able to pick up different items from different grocery-like options that are different grocery formats. But it's also true that we have infrastructure build-out in our grocery business that's different and optimized for the grocery business, too.
+
+Operator
+
+Our next question comes from the line of Mark Mahaney with Evercore ISI. Please proceed with your question.
+
+Mark Mahaney -- Evercore ISI -- Analyst
+
+Great. I'll limit myself to one question for each of you. Amazon Business has been a couple of years since you've talked about that. It would seem like there'd be a lot more opportunities, frankly, a lot higher level of sales, bookings, whatever, that you get out of that.
+
+So, Andy, just talk about like how big of a priority is that for you? And what's the growth strategy? Like how do you take that to $100 billion? And then on the -- Brian, on AWS, the last two quarters, you provided a little bit of a look ahead into the quarter in terms of the AWS growth, given some of the commentary about moving beyond optimization and into new workloads without -- if you don't give a specific number, at least talk about the trends that you're seeing versus what you had in the second quarter. Thanks a lot.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Yeah, sure. Thanks, Mark. Let me start with that second question. So, again, if we rewind to our last conference call, we had seen 16% AWS revenue growth in Q1, and the growth rates have been dropping during the quarter.
+
+And what I mentioned was that April was running about 500 basis points lower than Q1. What we've seen in the quarter is stabilization and you see the final 12% growth. I will stop for a moment and just put that in perspective. So, again, last Q2 last year, we had close to $20 billion of revenue and we grew that $2.4 billion.
+
+So, while that is 12%, there's a lot of cost optimization dollars that came out and a lot of new workloads and new customers that went in. So, there was -- on our base, it's very large numbers. And when customers start to that cost optimization work, they can take some of their spend down for a while as they do that, and we help them do that, and been part of our DNA ever since we started AWS. So, that's all good.
+
+What we're seeing in the quarter is that those cost optimizations, while still going on, are moderating, and many maybe behind us in some of our large customers. And now we're seeing more progression into new workloads, new business. So, those balanced out in Q2. We're not going to give segment guidance for Q3.
+
+But what I would add is that we saw Q2 trends continue into July. So, generally feel the business has stabilized, and we're looking forward to the back end of the year in the future because, as Andy said, there's a lot of new functionality coming out with -- and there's a lot of spend that will be in this area for all the great solutions that are out there for generative AI and large language models, as well as machine learning solutions that we've always had for customers. So, optimistic and starting to see some good traction with our customers' new volumes.
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah. I'll just underline one point Brian made and then quickly get to the Amazon Business point. Just if you think about the AWS business being an $88 billion revenue run rate business, to grow double digits on a business that size with the amount of cost optimizing that's been happening, to grow double digits, you have to be adding a lot of new customers and a lot of new workloads just to grow double digits. So, when I talked about last quarter, how I liked a lot of the fundamentals that we were seeing in the business with respect to customer pipeline, the new workloads, the migrations happening, what the team is rolling out functionality-wise, that's kind of what I'm talking about.
+
+And as we start to see cost optimization attenuate and more of the workloads, new workloads that people took those cost optimizations and actually started to plan come to fruition, not to mention what's coming with generative AI, there's a lot of growth in front of us on AWS. Just on your Amazon Business question, Mark, $35 billion annual run rate for gross sales is pretty strong growth. And if you look at it year over year, it continues to be very strong. But I like the way you're thinking, Mark, and it's almost like you're in some of the meetings that we're in where I asked the very same question.
+
+The team is working hard to build $100 billion-plus business over time. And I think that the business has grown to be pretty large already, and I still think we only have a fraction of the features that we need to address more of the enterprise at this point. There's all sorts of companies ordering obviously from Amazon Business. But the bigger procurement workloads, there are certain features that you need to make them much easier in the way that companies are used to buying in those big procurements.
+
+And so, we have a lot of features that we're adding. We have a number of service pieces that we need to add really around helping on big buys, do some of the service substantiations. And so, we have a lot of functionality that we're very quickly adding to mix here. But I don't think we're close to being done growing there, and that is a very strong area of focus for our stores team and for our senior leadership team as well.
+
+Operator
+
+And our next question comes from the line of Brent Thill with Jefferies. Please proceed with your question.
+
+Brent Thill -- Jefferies -- Analyst
+
+Thank you. Andy, just on -- sorry, AI monetization. Can you just talk to when you think you'll start to see that flow into the AWS business? Is that 2024? Do you feel like the back half, you'll start to see that as a bigger impact for the business?
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah. Good question, Brett. What I would say is that we have had a very significant amount of business in AWS driven by machine learning and AI for several years. And you've seen that largely in the form of compute as customers have been doing a lot of machine learning training and then running their models and production on top of AWS and our compute instances.
+
+But you've also seen it in the form of the 20-plus machine learning services that we've had out there for a few years. I think when you're talking about the big potential explosion in generative AI, which everybody is excited about, including us, I think we're in the very early stages there. We're a few steps into a marathon in my opinion. I think it's going to be transformative, and I think it's going to transform virtually every customer experience that we know.
+
+But I think it's really early. I think most companies are still figuring out how they want to approach it. They're figuring out how to train models. They want to -- they don't want to build their own very large language models.
+
+They want to take other models and customize it and services like Bedrock enable them to do so. But it's very early, and so I expect that will be very large, but it will be in the future.
+
+Operator
+
+And the next question comes from the line of Eric Sheridan with Goldman Sachs. Please proceed with your question.
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Thanks so much for taking the question, and thanks for all the detail in the prepared remarks around framing some of those key issues. Andy, maybe coming back to grocery, there's been a lot of coverage in the press around your grocery initiative in the last couple of days. When you take a step back, how much do you think about solving the grocery dynamic in the business to capitalize on it the way you want? Is an element of things you need to build and the application of capital versus elements of executing on what's already in place and sort of aligning the assets in place against the Amazon -- the scale of the Amazon Prime household in your customer base? Thanks so much.
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah. It's a good question. It's a little bit of both. I mean, if I just step back and think about how we think about grocery, we continue to have this very big business in nonperishables, which is where a lot of the mass merchandisers started in grocery several years ago.
+
+So, these are areas like consumables and canned goods and pet food, beauty, and health. And as I said, it's a big business that's continuing to grow. But if you want to be able to serve more customers, which we do, and there are a whole number of reasons for that and customers want it, you have to have a strong physical presence. We started with Whole Foods, which is the pioneer in organic grocery, continues to be and we really like the way Whole Foods is growing.
+
+We've made a number of really important adjustments in the business has changed its profitability trajectory over the last year. And we really like where that's headed and we're expanding that meaningfully. But if you want to be really broad, you have to have a mass physical format. We have been working on that for several years with Amazon Fresh.
+
+And I would say that we weren't pleased with the inputs, the progress on the inputs there. And the team has worked very hard over the last year to first start on the quality of the input, and that goes toward the quality of what we already had in place. And these are things like the right in-stock levels, the right cost structure, the right figures on things like obsolescence, just a number of the core inputs there, we just felt like we could be sharper and better. And I think that team has made up a lot of improvements.
+
+We have spent a lot of time thinking and rethinking how we want the formats to look. And we've just started rolling out some of those new formats, starting in our Chicago stores and then moving to our Southern California stores shortly thereafter. And you see added selection. You see added private brands.
+
+You see added well-known third-party brands, like Krispy Kreme and coffee in the stores. You've seen a refined decor in the stores. You see refined dash cards that keep a running tally for people, so they understand where they are at the moment wherever they're shopping, as well as refined self-service checkouts. And all those things, to me, are part of an effort we're trying to pursue to have a format in our mass Amazon Fresh stores that resonate more with customers.
+
+And we're hopeful that we will find that format and that it gives us the type of results that give us confidence to want to expand more broadly. But we won't expand unless we see that type of resonance. We're not just going to be on discipline. We're going to be thoughtful and disciplined about it.
+
+I do think also, you're starting to see across the team pulling some of the efforts together. So, we have a number of different grocery offerings that I just talked about, just having a converged shopping cart for customers, which they have obviously wanted, and that I think will help them quite a bit. We're continuing to extend delivery to non-Prime customers as well. And so, I think there are a number of opportunities for us over time to grow the business.
+
+We're optimistic that we'll be able to do so, but we're also being disciplined about not expanding the physical fresh stores until we have a format that we think is more resonant with customers.
+
+Operator
+
+And our next question comes from the line of Brian Nowak with Morgan Stanley. Please proceed with your question.
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Great. Thanks for taking my questions. I have two. The first one, Andy, on the last call last quarter, you talked about how you sort of talked about North America retail margins potentially getting to at or above pre-COVID levels.
+
+I think you said a margin around 4% and you're sort of talking now about investing more in grocery and expanding same-day and expanding that footprint. How should we think about sort of the forward slope of North America retail margins and sort of invest in some of these new initiatives in the retail business? Then the second one on AI. How high of an investment priority is it for you to improve your own retail and device network through more AI investments, potentially through logistics or AI-based agents, etc.? How large is that in the overall investment priority list?
+
+Andy Jassy -- Chief Executive Officer
+
+Well, I'll start on the North America retail piece, which is again, I'll just remind that we're not going to expand the number of fresh stores in a very significant way until we believe we have something that is resonant with customers and that we're going to like the return on invested capital. So, that to me, I'm hopeful we're going to find that, but we won't until we do. I think as it relates to same-day facilities, we actually think that's going to be very positive for the business. It is -- as I mentioned in my opening remarks, it is one of our most cost-effective mechanisms and fulfillment vehicles with respect not just to getting it there to customers quickly, but being fast, in part because those facilities, they're smaller facilities.
+
+They're big enough obviously to hold, in steady state, 100,000 SKUs and then also to have all of our nearby fulfillment centers be able to inject lots of different selection in there, so we can cover several million SKUs in that same-day or one-day fashion. But they're smaller -- in general, they're smaller facilities with less conveyance and with more streamlined pick directly to pack and to get out to the dock to ship. And so, they're just much more efficient as well. So, we actually think that the expansion of those is going to not just help with speed and with demand but we're going to also like the cost structure associated with that.
+
+And I continue to believe what I said last quarter, Brian, which is I do believe that we'll get back to margins like what we had pre COVID. And I don't think that's the end of what's possible for us there. On the AI question, what I would tell you, every single one of our businesses inside of Amazon, every single one has multiple generative AI initiatives going right now. And they range from things that help us be more cost-effective and streamlined in how we run operations in various businesses to the absolute heart of every customer experience in which we offer.
+
+And so, it's true in our stores business. It's true in our AWS business. It's true in our advertising business. It's true in all our devices, and you can just imagine what we're working on with respect to Alexa there.
+
+It's true in our entertainment businesses, every single one. It is going to be at the heart of what we do. It's a significant investment and focus for us.
+
+Operator
+
+Our final question comes from the line of Doug Anmuth with JPMorgan. Please proceed with your question.
+
+Doug Anmuth -- JPMorgan Chase and Company -- Analyst
+
+Thanks for taking the questions. Just on AWS, as you lap optimizations and the macro-driven slowdown and you start to get the new workload deployment, how do you think about what normalized growth could look like for AWS in a better macro environment? And then secondly, helpful to get the just over $50 billion capex number for this year. Just curious how generative AI changes or could change your capex trajectory going forward. Thanks.
+
+Andy Jassy -- Chief Executive Officer
+
+Well, it's a good question. And I would say that while I expect there will continue to be cost optimization, I think that the balance of cost optimizations to actually new workloads and new migrations as we saw a shift in that in Q2, I expect that we'll continue to see that shift over time. And as I said, I mean, everybody has to make their own conclusions on what percentage revenue growth they believe it means. But to grow double digits on an $88 billion revenue run rate business, when you're seeing that amount of cost optimization as every company in the world is trying to save as much money as they can in the last year, to still grow double digits on a base that size means that we're acquiring a lot of new customers and a lot of new workloads.
+
+And so, I'm very bullish on the growth of AWS over the next several years. And any one quarter, it's hard for me to predict but I am bullish about it in the medium to long term for sure. I think that on the -- how much generative AI may impact the capital expense spend, included in that number is a pretty significant amount of capital expense in the AWS business for large language models and for generative AI. And we have quite a bit of demand right now.
+
+And so, like in AWS in general, one of the interesting things in AWS, and this has been true from the very earliest days, which is the more demand that you have, the more capital you need to spend because you invest in data centers and hardware upfront and then you monetize that over a long period of time. So, I would like to have the challenge of having to spend a lot more in capital in generative AI because it will mean that customers are having success and they're having success on top of our services and -- but I think that that's our best estimate right now on that capital expense and we'll update it if we find it's different.
+
+Dave Fildes -- Director, Investor Relations
+
+Thank you for joining us on the call today and for your questions. A replay will be available on our Investor Relations website for at least three months. We appreciate your interest in Amazon and look forward to speaking with you again next quarter.
+
+Operator
+
+[Operator signoff]
+
+Duration: 0 minutes
+
+Call participants:
+Dave Fildes -- Director, Investor Relations
+
+Andy Jassy -- Chief Executive Officer
+
+Brian Olsavsky -- Chief Financial Officer
+
+Colin Sebastian -- Robert W. Baird and Company -- Analyst
+
+Mark Mahaney -- Evercore ISI -- Analyst
+
+Brent Thill -- Jefferies -- Analyst
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Doug Anmuth -- JPMorgan Chase and Company -- Analyst
+==============================
+AMZN earnings call for the period ending March 31, 2023.
+Logo of jester cap with thought bubble.
+IMAGE SOURCE: THE MOTLEY FOOL.
+
+Amazon.com (AMZN -0.68%)
+Q1 2023 Earnings Call
+Apr 27, 2023, 5:30 p.m. ET
+
+Contents:
+Prepared Remarks
+Questions and Answers
+Call Participants
+Prepared Remarks:
+
+Operator
+
+Good day, everyone, and welcome to the Amazon.com first quarter 2023 financial results teleconference. At this time, all participants are in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Today's call is being recorded.
+
+For opening remarks, I will be turning the call over to the vice president of investor relations, Dave Fildes. Thank you, sir. Please go ahead. 
+
+Dave Fildes -- Director, Investor Relations
+
+Hello, and welcome to our Q1 2023 financial results conference call. Joining us today to answer your questions are Andrew Jassy, our CEO; and Brian Olsavsky, our CFO. As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results, as well as metrics and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2022.
+
+Our comments and responses to your questions reflect management's views as of today, April 27, 2023, only and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings. During this call, we may discuss certain non-GAAP financial measures.
+
+10 stocks we like better than Amazon
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Amazon wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of February 5, 2024
+
+In our press release, slides accompanying this webcast and our filings with the SEC, each of which is posted on our IR website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures. Our guidance incorporates the order trends that we've seen to date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions, and customer demand and spending, including the impact of recessionary fears, inflation, interest rates, regional labor market constraints, world events, the rate of growth of the Internet, online commerce and cloud services, and the various factors detailed in our filings with the SEC. Our guidance assumes, among other things, that we don't conclude any additional business acquisitions, restructurings, or legal settlements.
+
+It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance. And now, I'll turn the call over to Brian.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Thank you for joining today's call. As Dave mentioned earlier, I'm joined today by Andy Jassy, our CEO. Before we move on to take your questions, I'll make some comments regarding our Q1 results. Let's begin with revenue.
+
+For the first quarter, our worldwide net sales were $127.4 billion, up 9% year over year, or 11% excluding approximately 210 basis points of unfavorable impact from changes in foreign exchange rates. This was above the top end of our guidance range. Overall, we are pleased with the growth that we're seeing in worldwide stores businesses, including quarter-over-quarter revenue acceleration in the international segment, which is helped by easing macroeconomic pressures in Europe. Across the geographies we serve, customers appreciate our focus on staying sharp on pricing, having strong selection, and easier convenience, including delivery speeds, which continued to improve throughout the first quarter.
+
+That said, the uncertain economic environment and ongoing inflationary pressures continue to be a factor, and we believe it's continuing to drive cautious spending across consumers. This means our customers are looking to stretch their budgets further and are focused on value. We saw moderated spending on discretionary categories, as well as shifts to lower-priced items and healthy demand in everyday essentials, such as consumables and beauty. Third-party sellers, including businesses who elect to utilize Fulfillment by Amazon for their storage and shipping services are a key contributor to the selection offered to customers.
+
+We also continued to invest meaningfully in brand protection efforts, including industry-leading technology so that sellers can trust we will provide a great selling experience free from bad actors. Sellers comprised 59% of overall unit sales in Q1, up from 55% one year ago. We also saw strong engagement in our advertising services with revenue up 23% year over year, excluding the impact from changes in foreign exchange rates. In particular, our sponsored product and brand offerings remain a key driver of growth as we work with advertisers to help customers make more informed purchase decisions.
+
+Our teams remain focused on delivering performance through our comprehensive and flexible measurement capabilities along with insights that allow advertisers the ability to measure the return on their advertising spend and help them grow their business. In AWS, net sales were $21.4 billion in the first quarter, up 16% year over year and representing an annualized sales run rate of more than $85 billion. Given the ongoing economic uncertainty, customers of all sizes in all industries continue to look for cost savings across their businesses, similar to what you've seen us doing at Amazon. As expected, customers continue to evaluate ways to optimize their cloud spending in response to these tough economic conditions in the first quarter.
+
+And we are seeing these optimizations continue into the second quarter with April revenue growth rates about 500 basis points lower than what we saw in Q1. As a reminder, we're not trying to optimize for any one quarter or year. We're working to build customer relationships and a business that will outlast all of us. Therefore, our AWS sales and support teams continue to spend much of their time helping customers optimize their AWS spend so that they can better weather this uncertain economy.
+
+This customer orientation is built into our DNA and how we think about our customer relationships and business over the long term. Now, let's shift to worldwide operating income. For the first quarter, we reported $4.8 billion in operating income, above the top end of our guidance range. This operating income was negatively impacted by an estimated employee severance charge of approximately $470 million in Q1, including $270 million related to AWS.
+
+As we finalized our annual planning process and considered the ongoing economic environment, we made the difficult decision to eliminate 9,000 roles, impacting our AWS business, as well as Twitch, devices, advertising, and our human resources teams. In Q1, our year-over-year growth in stores revenue and unit sales outpaced growth in both our fulfillment expense and our outbound shipping costs. Inflationary pressures continued to ease quarter over quarter, primarily driven by reductions in linehaul shipping rates, as well as lower diesel fuel and electricity costs. We also built on the progress we made throughout 2022 in improving productivity in our fulfillment network through continued process and tech improvements.
+
+We exited Q4 with a good balance of labor throughout the network and leveraged that throughout Q1 with customer demand patterns remaining more stable compared to Q1 of last year. As labor availability has stabilized and inventory supply chain challenges have moderated, we're able to implement some significant structural changes to transition our U.S. fulfillment network to a regionalized model. We believe these improvements put us in a good position to improve both delivery speed and our cost to serve customers over time.
+
+We reported overall net income of $3.2 billion in the first quarter. While we primarily focus our comments on operating income, I'd point out that this net income includes a pre-tax valuation loss of $467 million included in nonoperating expense from our common stock investment in Rivian Automotive. As we've noted in recent quarters, this activity is not related to Amazon's ongoing operations but rather to quarter-to-quarter fluctuations in Rivian's stock price. Turning to cash flows.
+
+We remain focused on building long-term sustainable growth in free cash flow, including our efforts toward a strong cash flow accretive working capital cycle. Our operating cash flow for the trailing 12 months ended March 31 increased to $54.3 billion, up 38% versus the comparable period year over year. Besides the cash benefit of improved profitability year over year, we've also seen supply chains easing up and made progress to improve our inventory purchasing and payment cycles, which in turn has a positive impact on working capital. Now, let's turn to our capital investments.
+
+We define our capital investments as the combination of capex plus equipment finance leases. For the full year 2023, we expect capital investments to be lower than our $59 billion investment level in 2022, primarily driven by an expected year-over-year decrease in fulfillment network investments. We're continuing to invest in infrastructure to support AWS customer needs, including investments to support large language models and generative AI. Before we open the call up for your questions, I'll hand it over to Andy to share some high-level perspectives on the first quarter.
+
+Andy Jassy -- Chief Executive Officer
+
+Thanks, Brian. I'll share a few thoughts before opening up for questions. From my perspective, I think there's a fair bit to like about how our teams are delivering for customers and the results we're starting to see. In our storage business, we've been very focused on reducing our cost to serve in our fulfillment network.
+
+As we shared in the past, given the unexpected surge in demand during the pandemic, we doubled the size of our fulfillment center footprint and largely built the transportation network the size of UPS in a couple of years. This ended up substantially changing the number of nodes and connections in our fulfillment network. And as a result, we spent the last several months not only redesigning dozens of processes to drive better productivity but also rearchitecting our placement approach and larger fulfillment center footprint to move from national fulfillment network in the U.S. to a regional one.
+
+It means we've created eight interconnected regions in geographic areas with each of these regions having broad relevant selection to operate in a largely self-sufficient way while still being able to ship nationally when necessary. We just recently completed this rollout and are quite bullish on the early results. Not surprisingly, shorter travel distances means lower cost to serve and customers getting their orders faster. And while on the topic of delivery speed, we're really excited about our progress in providing customers with more one-day and same-day deliveries and are on track to have our fastest Prime delivery speeds ever in 2023.
+
+On the advertising side, we're continuing to buck wider advertising trends and deliver robust growth. I think there are a few reasons for it. First, even in difficult economies, most people still shop. And with the largest e-commerce shopping venue, we have a lot of customers that companies seek to reach.
+
+That, coupled with our very substantial investment in machine learning to make sure customers see relevant ads when they're looking for various items, have meant that these advertisements have performed unusually well for brands, which makes them want to advertise in Amazon. It's also worth noting that we're still very early in our efforts to find a way to thoughtfully place ads in our broader video, live sports, audio, and grocery properties. We have a lot of upside still in advertising. In AWS, what we're seeing is enterprises continuing to be cautious in their spending in this uncertain time.
+
+Customers are looking for ways to save money however they can right now. They tell us that most of it is cost optimizing versus cost-cutting, which is an interesting distinction because they say they're cost optimizing to reallocate those resources on new customer experiences. One of the great attributes of the cloud is that you can scale seamlessly up or down as demand dictates, which is not the case with on-premise infrastructure. Customers want help finding ways to spend less during this challenging time, and given that it's best for customers long term, we've been actively helping customers make these adjustments.
+
+We've spent a fair bit of time analyzing what we're seeing, and I've spent a good chunk of time myself looking as well, and we like the fundamentals of what we're seeing in AWS. The new customer pipeline looks strong. The set of ongoing migrations of workloads to AWS is strong. The product innovation and delivery is rapid and compelling, and people sometimes forget that 90-plus percent of global IT spend is still on-premises.
+
+If you believe that equation is going to flip, which we do, it's going to move to the cloud and having the cloud infrastructure offering with the broadest functionality by a fair bit, the best securing operational performance, and the largest partner ecosystem bodes well for us moving forward. But we're not close to being done inventing in AWS. Our recent announcement on large language models and generative AI and the chips and managed services associated with them is another recent example. And in my opinion, few folks appreciate how much new cloud business will happen over the next several years from the pending deluge of machine learning that's coming.
+
+This past year has seen us do a fair bit of cost streamlining. As I mentioned in my recent shareholder letter, we took a deep look across the company and asked ourselves whether we had conviction about each initiative's long-term potential to drive enough revenue, operating income, free cash flow, and return on invested capital. In some cases, it led us to shuttering certain businesses like our physical bookstores, Forestar Stores, Amazon Fabric, Amazon Care, and certain devices where we didn't see a path to meaningful returns. In other cases, we've looked at some programs that weren't producing the returns we'd hoped, an example of free shipping for all online grocery orders over $35 and changed them.
+
+We also made the very difficult decision to eliminate about 27,000 corporate roles. Like most leadership teams, we'll continue to evaluate what we're seeing in our business and proceed adaptively. But while we've taken several actions to streamline our costs, we've been able to do so while still pursuing the key strategic long-term investments that we believe can meaningfully make customers' lives better and potentially change what Amazon is. These are investments both in our larger businesses mentioned earlier, as well as in areas like international expansion in our stores business, large retail market segments in which we're still nascent like grocery and business-to-business, allowing consumers to use Prime off of Amazon in our Buy with Prime program, entertainment, devices, healthcare and our low Earth orbit satellite for the hundreds of millions of households, companies and government entities that have limited to no connectivity.
+
+It's hard to predict that all of these will be successful but only one or two working would change our business over the long term. We have a lot of work in front of us, but I like the direction we're headed and strongly believe our best days are in front of us. And with that, I'll open it up for questions.
+
+Questions & Answers:
+
+Operator
+
+Thank you. At this time, we will now open the call for questions. We ask each caller to please limit yourself to one question. [Operator instructions] Thank you and please hold while we poll for questions.
+
+Our first question comes from the line of Doug Anmuth with J.P. Morgan. Please proceed with your question. 
+
+Doug Anmuth -- JPMorgan Chase and Company -- Analyst
+
+Thanks so much for taking the questions. Andy, you talked about the continued optimization. Just curious, can you talk about the degree to which optimization has been done in AWS versus what you think could still lie ahead? And when do you start to lap some of those efforts? And then also on the capex side, I think you said overall capex would be down in '23. Can you just help us understand that a little bit better between retail and AWS? And then what's required on capex from a generative AI and large language model perspective? Thanks.
+
+Brian Olsavsky -- Chief Financial Officer
+
+This is Brian. I'll take the first -- or the second part of that question first. On capex, we spent $59 million -- $59 billion, excuse me, last year. And on our core fulfillment and transportation areas, we actually are spending less year over year, and those estimates are going down.
+
+The GAAP or the increases in AWS and infrastructure and we are adding more dollars for large language models and generative AI. So, we're creating some space in our fulfillment and transportation number that has been repurposed over to AWS. We still think the combined capex will be lower year over year. 
+
+Andy Jassy -- Chief Executive Officer
+
+Just on your first question, Doug. It's hard to say exactly where we are in the process. I think that what we continue to see when we talk with customers is that they're appropriately cautious about what they're seeing in the economy. They're trying to find ways to save money as most companies are, including our own.
+
+And we have a long track record, which we continue to pursue, which I think makes sense for customers and for our business long term that we're not trying to optimize for a quarter or for a year. We're going to do whatever it takes to help customers be successful over a long period of time because we're trying to build relationships in a business that lasts all of us. And so, we're spending a lot of time with customers, trying to help them think of smart ways, not short-term ways, but smart ways to optimize their costs and to be able to scale up and down. And again, one of the big advantages of the cloud is that if you grow quickly, you can seamlessly scale up.
+
+But when you don't have the demand, you can give it back to us and stop paying for it, and that is not true with what you see on-premises. And so, we're trying to work hard to help customers with that. I think it's important to remember that customers are pretty explicitly telling us that this is not a cost-cutting effort where we intend on spending less money on technology or on the cloud. This is our reprioritizing what matters most to our business at this time and trying to reallocate resource so we can build new customer experience of the change what's possible.
+
+And so, I think if you think about -- those projects, by the way, take time to build. When you're reallocating, you're reprioritizing, you're redefining what you're going to build, you got to actually go build it before you can implement it. And we're working pretty carefully and closely with customers on those initiatives. I think it's important to remember that there's still so much growth ahead of the cloud, 90-plus percent of the global IT spend is on premises.
+
+And so, if you believe that equation is going to flip, it's mostly moving to the cloud. And I also think that there are a lot of folks that don't realize the amount of nonconsumption right now that's going to happen and be spent in the cloud with the advent of large language models and generative AI. I think so many customer experiences are going to be reinvented and invented that haven't existed before. And that's all going to be spent in my opinion, on the cloud.
+
+Operator
+
+And our next question comes from the line of Eric Sheridan with Goldman Sachs. Please proceed with your question. 
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Thanks so much for taking the questions. Andy, you've talked a lot in the shareholder letter on the last earnings call about driving greater levels of efficiencies in the company and also possibly returning some of the margin structures we saw pre-pandemic and absorbing overcapacity that built up during the pandemic. Can you give us an update on where you think you are in those broad efforts to match margins versus pre-pandemic levels and strike the right balance between profitability and driving your growth initiatives over the next couple of years? Thanks so much.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Eric, this is Brian. Let me start on the financial part of that question. So, I think we would describe ourselves as like along on the journey and making solid progress on recovering our cost structure and getting it back to pre-pandemic levels. Andy's talked about the efforts in operations and the regionalization of our operations.
+
+We've obviously taken a hard look at all of our businesses that we're in over the last six to nine months and have made adjustments there. But there's still a lot ahead of us, especially on the operational side that if you look at our operating margin in North American segment, it was 1.2 % this quarter. Pre-pandemic, that number was in the 4% to 6% range broadly. So, it's a bit of a marker on how much upside, but there's a lot of moving parts in that number.
+
+Obviously, there's the advertising, there's investments going on for future growth, and there's the core profitability and cost structure that our operations are achieving. So, making progress. We're working hard at it, but it's a longer road than bouncing back in one or two quarters.
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah, I would just add to that we have looked pretty hard at every single one of our businesses. And I think that while it's probably most visible, given the size of it, the improvement in the operating margin and the efficiency in our stores business, I think every business is working really hard and finding ways to be more efficient. And as Brian said, I think we're making really, really good progress on the fulfillment costs in our operations network and our stores business. But one of the things that's been interesting and frankly pretty encouraging to all of us is that as we -- over the last six to nine months, as the network fundamentally changed, remember, when you go through as much growth as we went through and you double your fulfillment center footprint and you also build a last-mile transportation network the size of UPS in a couple of years, there's a lot that you have to work on to get that as productive as you want.
+
+And we've spent a lot of time working on that the last six to nine months. But some of the ways that you operated before, which worked through several elbows in the curve and scale when they become inefficient because the network fundamentally changes, they become inefficient in a significant way. And so, it's part of what led to the regionalization effort that I talked about, but it also caused us to really reevaluate virtually everything we do in operations over the last six to nine months. And we have found a lot more opportunities than we even thought were there before.
+
+So, I'm pretty optimistic that we have a chance not just to recover to where we were pre-pandemic in terms of operating margin, but I think there's additional upside with some of the opportunities we've identified. 
+
+Operator
+
+And the next question comes from the line of Brian Nowak with Morgan Stanley. Please proceed with your question. 
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Great, thanks for taking my questions. I have two, Andy. The first one, you talked a lot about the long-term AI and large language model potential out of AWS. I think there's a lot of discussion about AWS' competitive positioning when it comes to these tools.
+
+Could you just sort of walk us through two or three of the key points of differentiation that you think AWS offers and AI tools versus some of the competitors? And then the second one around Echo and Alexa. The neural networks may not be a leading edge of technology now with the rapid emergence of some of these new large language models. How do you think about the key investment priorities for Echo and Alexa going forward? And what's your view on ROIC around that division? Thanks. 
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah. I'll try and answer those together because they're somewhat related. I think when you think about machine learning, it's useful to remember that we have had a pretty substantial investment in machine learning for 25-plus years in Amazon. It's deeply ingrained in virtually everything we do.
+
+It fuels our personalized e-commerce recommendations. It drives the Pick Pass and our fulfillment centers. We have it in our Go stores. We have it in our Prime Air, our drones.
+
+It's obviously in Alexa. And then AWS, we have 25-plus machine learning services where we have the broadest machine learning functionality and customer base by a fair bit. And so, it is deeply ingrained in our heritage. I think if you look at what's happened over the last nine months or so is that these large language models and generative AI capabilities, they've been around for a while, but frankly, the models were not that compelling before about six, nine months ago.
+
+And they have gotten so much bigger and so much better, much more quickly that it really presents a remarkable opportunity to transform virtually every customer experience that exists and many that don't exist that weren't really that easily made possible before. And so, it's very early days in that space, but probably not surprisingly, we've been investing in building in our own large language models for several years, and we have a very large investment across the company. And the way I would break it out, Brian, is I would say that there's three macro areas in this space. If you think about maybe the bottom layer here is that all of the large language models are going to run on compute.
+
+And the key to that compute is going to be the chip that's in that compute. And to date, I think a lot of the chips there, particularly GPUs, which are optimized for this type of workload, they're expensive and they're scarce. It's hard to find enough capacity. And so, in AWS, we've been working for several years on building customized machine learning chips, and we built a chip that's specialized for training, machine learning training, which we call Trainium; and a chip that's specialized for inference or the predictions that come from the model called Inferentia.
+
+The reality, by the way, is that most people are spending most of their time and money on the training. But as these models graduate to production, where they're in the apps, all the spend is going to be an inference. So, they both matter a lot. And if you look at -- we just released our second versions of both Trainium and Inferentia.
+
+And the combination of price and performance that you can get from those chips is pretty differentiated and very significant. So, we think that a lot of that machine learning training and inference will run on AWS. Then if you think about -- so you have to train the models, you have to run the inference, then you got to -- but you have to build the models. And if you look at the really significant leading large language models, they take many years to build and many billions of dollars to build.
+
+And there will be a small number of companies that want to invest that time and money, and we'll be one of them in Amazon. But most companies don't. And so, what most companies really want and what they tell AWS is that they'd like to use one of those foundational models and then have the ability to customize it for their own proprietary data and their own needs and customer experience. And they want to do it in a way where they don't leak their unique IP to the broader generalized model.
+
+And that's what Bedrock is, which we just announced a week ago or so. It's a managed foundational model service where people can run foundational models from Amazon, which we're exposing ourselves to, which we call Titan. Or they can run it from leading large language model providers like AI21 and Anthropic and Stability AI. And they can run those models, take the baseline, customize them for their own purposes, and then be able to run it with the same security and privacy and all the features they use for the rest of their applications in AWS.
+
+That's very compelling for customers. And then that third layer are really the applications that are going to be built on top of those large language models. So, ChatGPT is a good example of an application that's being built. We'll build some of those applications ourselves.
+
+So, for instance, we think one of the most compelling applications that are going to be built in generative AI have to do with making developers much more effective with coding assistance. And so, we built something called CodeWhisperer, which we just announced the general availability for, where developers can plug in a natural language, something like -- I want to build a video hosting website. And CodeWhisperer will bring up the code you need and the developer needs to employ and put that in production, which is really compelling. If you think about how much more productive a developer is going to be and what they're going to spend their time on instead of rewriting code that as median takes time, I think it's a big deal.
+
+Now to your second question and it's related to this top layer I was just talking about, we're going to build a very -- every single one of our businesses inside Amazon are building on top of large language models to reinvent our customer experiences, and you'll see it in every single one of our businesses, stores, advertising, devices, entertain. And devices, which was your specific question, is a good example of that. I think when people often ask us about Alexa, what we often share is that if we were just building a smart speaker, it would be a much smaller investment. But we have a vision, which we have conviction about that we want to build the world's best personal assistant.
+
+And to do that, it's difficult. It's across a lot of domains and it's a very broad surface area. However, if you think about the advent of large language models and generative AI, it makes the underlying models that much more effective such that I think it really accelerates the possibility of building the world's best personal assistant. And I think we start from a pretty good spot with Alexa because we have a couple of hundred million endpoints being used across entertainment and shopping and smart home and information and a lot of involvement from third-party ecosystem partners.
+
+And we've had a large language model underneath it, but we're building one that's much larger and much more generalized and capable. And I think that's going to really rapidly accelerate our vision of becoming the world's best personal assistant. I think there's a significant business model underneath it. 
+
+Operator
+
+And the next question comes from the line of Colin Sebastian with Baird. Please proceed with your question. 
+
+Colin Sebastian -- Robert W. Baird and Company -- Analyst
+
+Great, good afternoon, and thanks for taking my questions. I guess first off, on the international segment, I mean, not only an acceleration in our top line, but also on the margin side. If you could maybe add a little more color on initiatives and improvements there. And then secondly, on the physical stores, including the grocery strategy, maybe any be worth kind of going through any updated thoughts you have there around the strategy of optimizing stores across categories.
+
+And if there are any changes to the footprint plans for those businesses? Thank you.
+
+Andy Jassy -- Chief Executive Officer
+
+Thanks, Colin. I'll start with the international question. So, yeah, we saw an acceleration of growth on an FX-neutral basis, 9% versus 5% in Q4. I think the economy there is starting to stabilize and especially in established countries of Europe.
+
+We're seeing consumer confidence has increased and inflation is ticking down. So, some of those are similar to North America. But that is what we probably had some upside that we weren't counting on in international in the first quarter, and that was a good strength. On the margin, the negative margin has come down.
+
+Top line is helping there but it's also a function of some of the reductions that we're making across some of our investments. Most of those are in North America, but that you'll see kind of the improvement in operational efficiency and on the edge of some of the global programs are going to be reducing cost in international. I will remind you that, again, that international is an aggregation of established countries which are already profitable and who look a bit like North America, perhaps at an earlier stage of development and working their way to parity on profitability. We have forward-loaded Prime benefits in a lot of these countries that are ahead of the curve that we saw in North America.
+
+So, happy there. We have a large emerging business. In the last five years, we've added more than 10 new countries. What we're seeing is if you looked back to North America long ago, it took nine years for us to reach breakeven profitability in the United States.
+
+We see a similar curve in a lot of countries overseas. There's, in fact, additional challenges that we usually have to deal with, things like lack of payment methods, lack of the established infrastructure for -- especially for transportation and infrastructure for the internet and everything else. So, the adoption can be slower but we feel good about the businesses we're building. They carry a lot of the same traits that we have in North America.
+
+Price selection and convenience are at the core of that, very happy with the adoption and traffic and new customer acquisition that we're seeing from Prime Video in a lot of their emerging countries as well. So, good quarter. We'll continue to work again on cost structure and growing those businesses country by country. On the grocery part, what I would say is we continue to progress there.
+
+We have an interesting grocery business where we've been in it for a while and we have actually quite a large grocery business. It's just an unusual selection grocery business, very much like how the mass merchandisers got into grocery 25, 30 years ago, where the selection are items that are not temperature-controlled, so it's canned goods and packaged food and paper products and pet supplies and personal care and health and beauty and all sorts of consumables. And interestingly, in this current environment where consumers are being cautious about what they spend and finding ways to trade down in different product variations, consumables have stayed very, very strong. And so, we continue to be very pleased with that part of our grocery business to serve a much broader number of the grocery shopping journeys, which we seek to try to help customers with.
+
+We have to have a bigger physical presence since most of the shopping visits are still physical stores. We've got two efforts there. We've got Whole Foods, which really pioneered the organic grocery space. And that continues to grow nicely, and we've made a number of changes in the last year of the business that have changed the profitability trajectory there and feel very good about that.
+
+And at the same time, it is still a portion of the overall market segment. And if you really want to serve as much of grocery as we'd like to, you have to have a mass physical offering. And that's what we've been working on for a few years with the brand we've called Amazon Fresh. We wish we were further along at this point.
+
+We've tried lots of ideas. We haven't yet found conviction around the format that we want to go expand much more broadly. We have a set of experiments and ideas and concepts that we're working on across our dozens of stores there. And we're pretty optimistic that we have something that may very well work.
+
+And we're hopeful over this next year, we find that. But we continue to believe it's a big business for us today. It's continuing to get bigger, but we believe we have the opportunity for it to be much larger for Amazon and where we can help customers more broadly. And I think having that physical presence, we will also have the ability both to be able to serve the grocery products they come for, as well as store some other pieces and help customers across some other product lines as well. 
+
+Operator
+
+And the next question comes from the line of Justin Post with Bank of America. Please proceed with your question. 
+
+Justin Post -- Bank of America Merrill Lynch -- Analyst
+
+Great, thanks for taking my question. I guess, AWS, can you call out any unusual items in April or 2Q for the comp? I know you had a very good 2Q last year. And just thinking about linearity in the quarter. And then second, Andy, really appreciate the shareholder letter.
+
+It looks like you've picked medical and Kuiper as big investment areas. Do you think those -- I mean, why those areas? And does the company ever think about breaking out all the big investments that we had more clarity on the retail margin structure? Thank you. 
+
+Brian Olsavsky -- Chief Financial Officer
+
+Hi, Justin, thank you. On AWS, I think Andy did a good job of laying out the dynamics we're seeing among customers right now and where they're cutting workloads and continued strength that we see in customers hitting their contractual limits and extending them and planning for the future. So, we feel really strongly about the outlook for the business and understand the short-term work that we're doing to help customers save money. So, I would say Q2 versus Q1, there's not an obvious year-over-year comp differential.
+
+It's just, again, understanding which customers are cutting in some areas and growing in others and helping them get on hopefully to the new initiatives that they are planning as well.
+
+Andy Jassy -- Chief Executive Officer
+
+Yeah. In terms of the calling out healthcare and Kuiper in my annual letter, I think what I was trying to do in the letter was explain how we think about investing in -- how we think about our big new investments that we make. I talked about in the letter that we look at a few things. We look at if it's successful, could it be big and move the needle for Amazon with the right ROICs? Is that experience being well served today elsewhere? Do we have some kind of differentiation? And do we have some confidence that the company in that area, if not, can we acquire it quickly? And we'd like the answers to those questions, we will invest.
+
+Some of those investments lead to what seem like relatively straightforward investments. And I talked a little bit about category expansion and international expansion in our stores business and some of the nascent retail market segments that are large for us that we think we can have big businesses in and business-to-business, our Amazon business entity and grocery, and things like Buy with Prime, which allow our consumers to use their Prime benefit in other third-party websites beyond Amazon and also let merchants convert at a higher rate because Prime members are able to pay quickly and to get that fast, reliable shipping they get from Prime. But then there are other investments I was pointing out that sometimes don't lead to categories that people might initially guess. And AWS was a good example of that where that seemed really different for us when we started to pursue that in 2003.
+
+And we're a pretty different company because we did so even though there were a lot of people externally and internally that thought was a little bit crazy. And so, I just chose two of them there. I could have chosen a lot more. The letter was long enough as it was, so I just chose two, but I chose two that we have conviction about.
+
+On the healthcare side, when you think about that set of questions that we ask ourselves when we consider whether we should make big investments, healthcare is a multitrillion-dollar business that's very segmented, and it's really broken in the U.S. particularly, I think in other parts of the world, too, but particularly in the U.S. And we had what we thought were some differentiated ways that we could be successful at it. And I think when -- our customers have been asking us for years to provide a pharmacy.
+
+If you think about that, it's not -- that's a pretty natural extension from what we do in retail, and we've launched Amazon Pharmacy in 2020 and I think it's off to a good start. It's continuing to grow. We have a lot to do there. But a lot of our customers who like that experience said, "Gosh, I wish you guys would help us in the broader healthcare experience." And if you think about trying to meaningfully change that experience, primary care is right at the center of it.
+
+And if you look at the experience that's been the case for the last several decades, we're going to have a hard time convincing our grandkids that it used to be the case to get a primary care appointment, you had to call ahead of time, a month ahead to schedule an appointment and drive 20 minutes to the doctor and park and get into the facility and wait 20 minutes in reception. And you get into an exam room, you wait 10 minutes for the doctor to come in. The doctor talks to you for five minutes and then prescribes you medicine where you drive 20 minutes to go get the medicine. And that experience just doesn't make sense and won't be the case.
+
+And so, we looked at -- we had some experience when we started experimenting with Amazon Care, and we couldn't believe how much people like the streamlined experience. And we ultimately decided we didn't have the right business model there. But we came across One Medical where the digital app is very compelling and you can talk to a medical practitioner by chat or by video conference, or if you have to come into a physical facility, they have clinics around the country and you can get that appointment same day or next day. In all those cities, they have relationships with health specialists, where you're plugged into.
+
+Their ability to get reservations where you can get reservations in a day or two there. And then when you need medicine, you can have it automatically shipped to you by Amazon Pharmacy or other third-party pharmacies. It's a very, very different experience. And we think we have an opportunity to be successful in helping change that experience.
+
+And if we're successful with primary care and with pharmacy, there are a lot of other things we can help customers with as well. So, we think that's a big opportunity. I'll just briefly say on Kuiper that it's a very large number. It's hundreds of millions of households and businesses and government entities that today have limited to no connectivity to the internet.
+
+And if you just think about what you can't do if you don't have connectivity, we all take it for granted. But having that connectivity means you can take online education courses and get an education, or you can start or run a business or you can enjoy entertainment or you can shop for anything you can imagine. And for businesses and governments, to be able to have that coverage, to be able to operate much more seamlessly in the various environments in which you have to have a presence, it's a total game changer. And so, we think it has the chance to be a very large business.
+
+We haven't -- we've released some information about it in some of our designs. And it's pretty exciting to us how many customers in all those different segments are excited about it. And so, I just chose those two as exemplary of some of the inventions that come out of that investment process that you might not guess but that we think can be very significant for the company. 
+
+Dave Fildes -- Director, Investor Relations
+
+Thanks for joining us today on the call and for your questions. A replay will be available on our investor relations website for at least three months. We appreciate your interest in Amazon and look forward to talking with you again next quarter.
+
+Duration: 0 minutes
+
+Call participants:
+Dave Fildes -- Director, Investor Relations
+
+Brian Olsavsky -- Chief Financial Officer
+
+Andy Jassy -- Chief Executive Officer
+
+Doug Anmuth -- JPMorgan Chase and Company -- Analyst
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Colin Sebastian -- Robert W. Baird and Company -- Analyst
+
+Justin Post -- Bank of America Merrill Lynch -- Analyst
+
