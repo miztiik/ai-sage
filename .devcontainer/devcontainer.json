@@ -3,20 +3,36 @@
 {
 	"name": "Python 3",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye"
-
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye",
 	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
-
+	// https://github.com/devcontainers/features/tree/main/src/azure-cli
+	"features": {
+		"ghcr.io/devcontainers/features/azure-cli:1": {}
+	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
-
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "pip3 install --user -r requirements.txt",
-
 	// Configure tool-specific properties.
-	// "customizations": {},
-
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mechatroner.rainbow-csv",
+				"ms-vscode.vscode-node-azure-pack",
+				"ms-toolsai.vscode-ai",
+				"ms-vscode.azure-repos",
+				"ms-vscode.azurecli",
+				"ms-python.python",
+				"ms-azuretools.vscode-bicep",
+				"ms-azuretools.rad-vscode-bicep",
+				"ms-semantic-kernel.semantic-kernel",
+				"prompt-flow.prompt-flow",
+				"KevinRose.vsc-python-indent",
+				"njpwerner.autodocstring",
+				"ms-python.debugpy"
+			]
+		}
+	}
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 }

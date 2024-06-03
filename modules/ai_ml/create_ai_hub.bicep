@@ -1,6 +1,6 @@
 // SET MODULE DATE
 param module_metadata object = {
-  module_last_updated: '2024-05-01'
+  module_last_updated: '2024-06-03'
   owner: 'miztiik@github'
 }
 
